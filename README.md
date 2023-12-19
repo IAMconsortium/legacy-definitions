@@ -1,47 +1,37 @@
-# Scenario Explorer Workflow Template
+# Legacy template
 
-Copyright 2022-2023 IIASA
+This repository contains variable definitions from the NAVIGATE project.
 
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+It is intended to be used complementary to the common-definitions repository while the
+common definition repository is being developed.
 
-## Overview
+## Intended use
 
-This is a template for project-specific scenario processing workflows.
+The use case envisioned for this repository is as follows:
 
-To use this template for a project, do the following:
-- Create a new repository from this template
-- Update the title and overview section of this Readme
-- Start adding definitions and mappings 
+* For a new model comparison project common-definitions and legacy-definitions should be
+  used as a base for the variable template
+* Any additional variables which are part of the project should either be added to
+  common-definitions if they are sufficiently general or to the project internal
+  workflow if they are too specialized.
 
-### Project nomenclature
+The `nomenclature.yaml` file for this configuration would look like this:
 
-The folder `definitions` can contain the project nomenclature, i.e., list of allowed
-variables and regions, for use in the validation workflow. See the **nomenclature**
-package for more information ([link](https://github.com/iamconsortium/nomenclature)).
+```yaml
+repositories:
+  common-definitions:
+    url: https://github.com/iamconsortium/common-definitions
+  legacy-definitions:
+    url: https://github.com/iamconsortium/common-definitions
+definitions:
+  variable:
+    repository: [common-definitions, legacy-definitions]
+```
 
-The folder `mappings` can contain model mappings that are used to register models and
-define how results should be processed upon upload to a Scenario Explorer.
+## Validation workflow
 
-### Model registration
+As the common-definitions repository is expected to become more comprehensive there will
+be overlap with the legacy definitions. This will create errors in use.
 
-This is the step-by-step guide to registering your model:
-
-1. Fork this repository
-2. Follow the instructions from the nomenclature documentation here: <https://nomenclature-iamc.readthedocs.io/en/stable/user_guide/model-registration.html>. 
-Please make sure to follow the instructions completely, both the _Model mapping_ and the _Region definitions_ part. You'll have to end up with two files.
-3. Open a pull request into this repository. Make sure that the tests run through and correct any potential issues. If the tests are failing you can view the details by clicking on the failed test run.
-
-4. Set [@danielhuppmann](https://github.com/danielhuppmann) and [@phackstock](https://github.com/phackstock) as reviewers.
-5. Once everything is in order we will merge your pull request and your model will be registered.
-
-### Workflow
-
-The module `workflow.py` has a function `main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:`.
-
-Per default, this function takes an **IamDataFrame** and returns it without
-modifications. [Read the docs](https://pyam-iamc.readthedocs.io) for more information
-about the **pyam** package for scenario analysis and data visualization.
-
-**Important**: Do not change the name of the module `workflow.py` or the function `main`
-as they are called like this by the Job Execution Service. Details can be found
-[here](https://wiki.ece.iiasa.ac.at/wiki/index.php/Scenario_Explorer/Setup#Job_Execution_Service).
+In order to catch these errors early enough, the validation workflow is run once per day
+at midnight.
