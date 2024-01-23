@@ -2886,30 +2886,6 @@
     definition: final energy consumption of green hydrogen in the Bunkers sector by
       International Shipping
     unit: EJ/yr
-- Final Energy|Carbon Removal|Electricity|Direct Air Capture:
-    definition: Final energy consumption of electricity by direct air capture
-    unit: EJ/yr
-- Final Energy|Carbon Removal|Electricity|Enhanced Weathering:
-    definition: Final energy consumption of electricity by enhanced weathering
-    unit: EJ/yr
-- Final Energy|Carbon Removal|Liquids|Direct Air Capture:
-    definition: Final energy consumption of liquids by direct air capture
-    unit: EJ/yr
-- Final Energy|Carbon Removal|Liquids|Enhanced Weathering:
-    definition: Final energy consumption of liquids by enhanced weathering
-    unit: EJ/yr
-- Final Energy|Carbon Removal|Heat|Direct Air Capture:
-    definition: Final energy consumption of heat by direct air capture
-    unit: EJ/yr
-- Final Energy|Carbon Removal|Heat|Enhanced Weathering:
-    definition: Final energy consumption of heat by enhanced weathering
-    unit: EJ/yr
-- Final Energy|Carbon Removal|Gases|Direct Air Capture:
-    definition: Final energy consumption of gases by direct air capture
-    unit: EJ/yr
-- Final Energy|Carbon Removal|Hydrogen|Direct Air Capture:
-    definition: Final energy consumption of hydrogen by direct air capture
-    unit: EJ/yr
 - Final Energy|Other Sector|Gases|Biomass:
     definition: final energy consumption by other sectors of biogas, excluding transmission/distribution
       losses
