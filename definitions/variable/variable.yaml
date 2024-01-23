@@ -3883,8 +3883,8 @@
     unit: billion US$2010/yr
 - Investment|Energy Demand|Transportation|Passenger|Road|LDV|EV:
     definition: 'investments into new vehicle technologies in the transport sector
-      (light-duty cars and trucks: electric vehicle technologies, including all-electrics
-      and plug-in hybrids)'
+      (light-duty cars and trucks: electric vehicle technologies, including
+      all-electrics and plug-in hybrids)'
     unit: billion US$2010/yr
 - Investment|Energy Demand|Transportation|Passenger|Road|LDV|FCV:
     definition: 'investments into new vehicle technologies in the transport sector
@@ -4001,8 +4001,8 @@
     definition: Undisturbed natural forests and modified natural forests
     unit: million ha
 - Land Cover|Other Arable Land:
-    definition: other arable land that is unmanaged (e.g., grassland, savannah, shrubland),
-      excluding unmanaged forests that are arable
+    definition: other arable land that is unmanaged (e.g., grassland, savannah,
+      shrubland), excluding unmanaged forests that are arable
     unit: million ha
 - Land Cover|Other Land:
     definition: other land cover that does not fit into any other category (please
@@ -4048,13 +4048,9 @@
     unit: billion US$2010/yr
 - Direct Risk|Asset Loss:
     definition: 'The risk of asset losses expressed in terms of their probability
-      of
-
-      occurrence and destruction in monetary terms is modelled as a function of hazard
-
-      (frequency and intensity), the elements exposed to those hazards and their physical
-
-      sensitivity.'
+      of occurrence and destruction in monetary terms is modelled as a function of
+      hazard (frequency and intensity), the elements exposed to those hazards and their
+      physical sensitivity.'
     unit: billion US$2010/yr
 - Fiscal Gap:
     definition: The potential fiscal gap, is assessed by simulating the risks to assets
