@@ -3593,8 +3593,8 @@
     definition: 'Debt service as a percentage of exports of goods and services   '
     unit: '%'
 - Export|Developing Country Share:
-    definition: Developing countries’ and least developed countries’ share of global
-      exports
+    definition: "Developing countries' and least developed countries' share of global
+      exports"
     unit: '%'
 - Revenue|government:
     definition: government revenue
@@ -4091,22 +4091,14 @@
       financing instruments).
     unit: billion US$2010/yr
 - Indirect Risk|GDP Growth:
-    definition: 'The consequences of a fiscal vulnerability and associated gaps on
-      macroeconomic development
-
-      of the country are characterized with indicators, such as economic growth or
-      the country’s external debt
-
-      position.'
+    definition: "The consequences of a fiscal vulnerability and associated gaps on
+      macroeconomic development of the country are characterized with indicators, such
+      as economic growth or the country's external debt position."
     unit: '%'
 - Indirect Risk|Public Debt:
-    definition: 'The consequences of a fiscal vulnerability and associated gaps on
-      macroeconomic development
-
-      of the country are characterized with indicators, such as economic growth or
-      the country’s external debt
-
-      position.'
+    definition: "The consequences of a fiscal vulnerability and associated gaps on
+      macroeconomic development of the country are characterized with indicators, such
+      as economic growth or the country's external debt position."
     unit: billion US$2010/yr
 - Capital Cost|Electricity|Biomass|w/ CCS:
     definition: Capital cost of a new biomass power plant with CCS. If more than one
