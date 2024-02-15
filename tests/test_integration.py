@@ -22,6 +22,8 @@ def test_integration_common_definitions():
     with open(config_file, "w") as file:
         yaml.dump(config, file)
 
-    nomenclature.DataStructureDefinition("definitions")
+    try:
+        nomenclature.DataStructureDefinition("definitions")
 
-    pathlib.Path(config_file).unlink()
+    finally:
+        pathlib.Path(config_file).unlink()
