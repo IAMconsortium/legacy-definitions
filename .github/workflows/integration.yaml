@@ -1,0 +1,30 @@
+# This workflow checks that no conflicts exist with the common-definitions repo
+
+name: Check consistency with common-definitions
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ '**' ]
+  schedule:
+    - cron:  '45 5 * * *'
+
+jobs:
+  project-validation:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+
+    - name: Install requirements
+      run: pip install nomenclature-iamc pytest
+
+    - name: Run the integration test
+      run: pytest tests/test_integration.py
