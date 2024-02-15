@@ -6,7 +6,7 @@ import nomenclature
 
 def test_integration_common_definitions():
 
-    config_file = "../definitions/nomenclature.yaml"
+    config_file = "nomenclature.yaml"
     config = {
         "repositories": {
             "common-definitions": {
@@ -22,6 +22,6 @@ def test_integration_common_definitions():
     with open(config_file, "w") as file:
         yaml.dump(config, file)
 
-    nomenclature.DataStructureDefinition("../definitions")
+    nomenclature.DataStructureDefinition("definitions")
 
     pathlib.Path(config_file).unlink()
