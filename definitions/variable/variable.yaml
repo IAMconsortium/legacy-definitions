@@ -513,12 +513,6 @@
 - Consumption:
     definition: total consumption of all goods, by all consumers in a region
     unit: billion US$2010/yr
-- GDP|MER:
-    definition: GDP at market exchange rate
-    unit: billion US$2010/yr
-- GDP|PPP:
-    definition: GDP converted to International $ using purchasing power parity (PPP)
-    unit: billion US$2010/yr
 - Value Added|Agriculture:
     definition: value added of the agricultural sector
     unit: billion US$2010/yr
