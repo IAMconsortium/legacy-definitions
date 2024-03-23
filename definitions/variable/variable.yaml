@@ -816,9 +816,6 @@
 - Employment:
     definition: Number of employed inhabitants (based on ILO classification)
     unit: million
-- Unemployment:
-    definition: Number of unemployed inhabitants (based on ILO classification)
-    unit: million
 - Unemployment|Rate:
     definition: Fraction of unemployed inhabitants (based on ILO classification)
     unit: '%'
@@ -2452,14 +2449,6 @@
 - Final Energy|Transportation|Freight|LDV:
     definition: final energy consumption by the freight transportation sector by LDV
     unit: EJ/yr
-- Final Energy|Bunkers|Passenger|International Shipping:
-    definition: final energy consumption by the Passenger transportation sector by
-      International Shipping
-    unit: EJ/yr
-- Final Energy|Bunkers|Passenger|International Aviation:
-    definition: final energy consumption by the Passenger transportation sector by
-      International Aviation
-    unit: EJ/yr
 - Final Energy|Bunkers|Passenger|International Aviation|Electricity:
     definition: final energy consumption of electricity excluding transmission/distribution
       losses in the Bunkers Passenger sector by International Aviation
@@ -2475,14 +2464,6 @@
 - Final Energy|Bunkers|Passenger|International Aviation|Liquids:
     definition: final energy consumption of liquids in the Bunkers Passenger sector
       by International Aviation
-    unit: EJ/yr
-- Final Energy|Bunkers|Freight|International Shipping:
-    definition: final energy consumption by the freight transportation sector by International
-      Shipping
-    unit: EJ/yr
-- Final Energy|Bunkers|Freight|International Aviation:
-    definition: final energy consumption by the freight transportation sector by International
-      Aviation
     unit: EJ/yr
 - Final Energy|Bunkers|International Aviation|Electricity:
     definition: final energy consumption of electricity excluding transmission/distribution
@@ -3014,12 +2995,6 @@
 - Energy Service|Residential|Floor Space:
     definition: energy service demand for conditioned floor space in residential buildings
     unit: bn m2
-- Energy Service|Transportation|Freight:
-    definition: energy service demand for freight transport
-    unit: bn tkm/yr
-- Energy Service|Transportation|Passenger:
-    definition: energy service demand for passenger transport
-    unit: bn pkm/yr
 - Energy Service|Transportation|Freight|Domestic Aviation:
     definition: energy service demand for freight transport on domestic aircrafts
     unit: bn tkm/yr
@@ -3046,9 +3021,6 @@
     unit: bn pkm/yr
 - Energy Service|Transportation|Passenger|Railways:
     definition: energy service demand for passenger transport on railways
-    unit: bn pkm/yr
-- Energy Service|Transportation|Passenger|Road:
-    definition: energy service demand for passenger transport on roads
     unit: bn pkm/yr
 - Energy Service|Bunkers|Freight|International Shipping:
     definition: energy service demand for freight transport operating on international
@@ -3233,11 +3205,6 @@
 - Food Energy Supply|Livestock:
     definition: calory food demand from livestock products
     unit: EJ/yr
-- Population|Risk of Hunger:
-    definition: Population at risk of hunger, calculated by multipling total population
-      and prevalence of undernourishment which is computed from a probability distribution
-      of daily dietary energy consumption and minimum dietary energy requirement.
-    unit: million
 - Forestry Demand|Roundwood:
     definition: forestry demand level for all roundwood (consumption, not production)
     unit: million m3/yr
@@ -3654,15 +3621,8 @@
     definition: investment into water-related infrastructure (other than for thermal
       cooling and irrigation)
     unit: billion US$2010/yr
-- Land Cover:
-    definition: total land cover
-    unit: million ha
 - Land Cover|Built-up Area:
     definition: total built-up land associated with human settlement
-    unit: million ha
-- Land Cover|Cropland:
-    definition: total arable land, i.e. land in bioenergy crop, food, and feed/fodder
-      crops, permant crops as well as other arable land (physical area)
     unit: million ha
 - Land Cover|Forest:
     definition: managed and unmanaged forest area
@@ -5547,17 +5507,6 @@
 - Price|Drinking Water:
     definition: price for m3 of drinking water distributed to the users
     unit: US$2010/m3
-- Population|Electricity Access:
-    definition: Population with access to electricity
-    unit: million
-- Population|Relying on Solid Fuels:
-    definition: Population without access to electricity and relying on solid fuels
-      for heating-cooking
-    unit: million
-- Population|Clean cooking Access:
-    definition: Population with access to improved cooking facilities (electric or
-      gas)
-    unit: million
 - Investment|Infrastructure|Water|Distribution:
     definition: Investment into water distribution infrastructure
     unit: billion US$2010/yr
@@ -5585,18 +5534,6 @@
 - Investment|Forestry:
     definition: Investment into growing forests
     unit: billion US$2010/yr
-- Terrestrial Biodiversity|MSA|Vertebrates:
-    definition: Terrestrial biodiversity of vertebrate species measured in Mean Species
-      Abundance (MSA)
-    unit: '%'
-- Terrestrial Biodiversity|MSA|Plants:
-    definition: Terrestrial biodiversity of plant species measured in Mean Species
-      Abundance (MSA)
-    unit: '%'
-- Terrestrial Biodiversity|BII:
-    definition: Terrestrial biodiversity measured with Biodiversity Intactness Index
-      (BII)
-    unit: '%'
 - Land Cover|Protected Area:
     definition: Land-use coverage of officially protected area
     unit: million ha
