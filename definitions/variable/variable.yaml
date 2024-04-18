@@ -3646,11 +3646,6 @@
 - Land Cover|Other Land:
     definition: other land cover that does not fit into any other category
     unit: million ha
-- Price|Carbon:
-    definition: Price of carbon
-    drop_negative_weights: false
-    unit: US$2010/t CO2
-    weight: Emissions|CO2
 - Price|Carbon|Net|Industry:
     definition: Net price of carbon applicable at national level for industry sector
       (= sum of all overlapping regulations)
