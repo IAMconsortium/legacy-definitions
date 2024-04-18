@@ -510,27 +510,6 @@
 - Population|Working Age:
     definition: Total working age population (age 15-65 years)
     unit: million
-- Consumption:
-    definition: total consumption of all goods, by all consumers in a region
-    unit: billion US$2010/yr
-- Value Added|Agriculture:
-    definition: value added of the agricultural sector
-    unit: billion US$2010/yr
-- Value Added|Commercial:
-    definition: value added of the commercial sector
-    unit: billion US$2010/yr
-- Value Added|Industry:
-    definition: value added of the industry sector
-    unit: billion US$2010/yr
-- Capital Formation:
-    definition: net additions to the physical capital stock
-    unit: billion US$2010/yr
-- Expenditure|Government:
-    definition: total government expenditure
-    unit: billion US$2010/yr
-- Expenditure|Household:
-    definition: Total household expenditure
-    unit: billion US$2010/yr
 - Export:
     definition: total exports measured in monetary quantities.
     unit: billion US$2010/yr
