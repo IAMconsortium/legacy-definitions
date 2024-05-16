@@ -2686,7 +2686,7 @@
     definition: Hydrogen price at the final level in the industrial sector. Prices
       should include the effect of carbon prices and all other taxes.
     unit: US$2010/GJ
-    weigth: Final Energy|Industry|Hydrogen
+    weight: Final Energy|Industry|Hydrogen
 - Price|Final Energy|Industry|Solids:
     definition: Solids price at the final level in the industrial sector. Prices should
       include the effect of carbon prices and all other taxes.
