@@ -31,7 +31,7 @@ def test_integration_common_definitions():
             for project in ["navigate", "engage", "shape"]:
                 if project in attrs.extra_attributes:
                     legacy_var = attrs.__getattr__(project)
-                    if legacy_var in existing_variables:
+                    if legacy_var != code and legacy_var in existing_variables:
                         legacy_variables[legacy_var] = code
 
         if legacy_variables:
