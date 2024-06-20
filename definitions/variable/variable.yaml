@@ -3042,11 +3042,11 @@
 - Trade|Primary Energy|Biomass|Value:
     definition: value of net exports of solid, unprocessed biomass, at the global
       level these should add up to the trade losses only
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Trade|Primary Energy|Coal|Value:
     definition: value of net exports of coal, at the global level these should add
       up to the trade losses only
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Trade|Primary Energy|Gas|Value:
     definition: value of net exports of natural gas, at the global level these should
       add up to the trade losses only
@@ -3084,31 +3084,31 @@
 - Trade|Secondary Energy|Electricity|Value:
     definition: value of net exports of electricity, at the global level these should
       add up to the trade losses only
-    unit: EJ/yr
+    unit: billion USD_2010/yr
 - Trade|Secondary Energy|Hydrogen|Value:
     definition: value of net exports of hydrogen, at the global level these should
       add up to the trade losses only
-    unit: EJ/yr
+    unit: billion USD_2010/yr
 - Trade|Secondary Energy|Liquids|Biomass|Value:
     definition: value of net exports of liquid biofuels, at the global level these
       should add up to the trade losses only (for those models that are able to split
       solid and liquid bioenergy)
-    unit: EJ/yr
+    unit: billion USD_2010/yr
 - Trade|Secondary Energy|Liquids|Coal|Value:
     definition: value of net exports of fossil liquid synfuels from coal-to-liquids
       (CTL) technologies, at the global level these should add up to the trade losses
       only
-    unit: EJ/yr
+    unit: billion USD_2010/yr
 - Trade|Secondary Energy|Liquids|Gas|Value:
     definition: value of net exports of fossil liquid synfuels from gas-to-liquids
       (GTL) technologies, at the global level these should add up to the trade losses
       only
-    unit: EJ/yr
+    unit: billion USD_2010/yr
 - Trade|Secondary Energy|Liquids|Oil|Value:
     definition: value of net exports of liquid fuels from petroleum including both
       conventional and unconventional sources, at the global level these should add
       up to the trade losses only
-    unit: EJ/yr
+    unit: billion USD_2010/yr
 - Trade|Uranium|Mass:
     definition: net exports of Uranium, at the global level these should add up to
       the trade losses only
@@ -3116,7 +3116,7 @@
 - Trade|Uranium|Value:
     definition: value of net exports of Uranium, at the global level these should
       add up to the trade losses only
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Price|Final Energy|Residential|Electricity:
     definition: electricity price at the final level in the residential sector. Prices
       should include the effect of carbon prices.
@@ -4980,7 +4980,7 @@
     unit: Mt CO2-equiv/yr
 - Trade|Emissions Allowances|Value:
     definition: value of trade in GHG emission allowances
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Iron and Steel|Iron Ore|Volume:
     definition: production of iron ore (raw material used for the production of primary
       steel and iron)
