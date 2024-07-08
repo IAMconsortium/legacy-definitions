@@ -1,5 +1,6 @@
 # Legacy-definitions
 
+
 [![License: CC0-1.0](https://img.shields.io/github/license/iamConsortium/legacy-definitions)](https://github.com/IAMconsortium/legacy-definitions/blob/main/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
