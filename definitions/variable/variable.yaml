@@ -512,38 +512,38 @@
     unit: million
 - Export:
     definition: total exports measured in monetary quantities.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import:
     definition: total imports measured in monetary quantities.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Capital Stock:
     definition: Macroeconomic capital stock
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Interest Rate|Real:
     definition: Real interest rate or return on capital that is relevant for energy
       system investments
     unit: '%'
 - Value Added|Industry|Chemicals:
     definition: value added of the chemical industries.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Value Added|Industry|Iron and Steel:
     definition: value added of iron and steel production
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Value Added|Industry|Non-Metallic Minerals:
     definition: value added of non-metallic minerals industries
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Value Added|Industry|Pulp and Paper:
     definition: value added of the pulp and paper sector
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Value Added|Industry|Non-Ferrous metals:
     definition: value added of the non-ferrous metals sector
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Value Added|Industry|Other Sector:
     definition: value added of all other industry sectors
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Policy Cost|Welfare Change:
     definition: welfare loss measured as change in balanced growth equivalents
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Emissions|CO2 (w/o bunkers):
     definition: total CO2 emissions excluding emissions from international bunkers
       (IPCC category 1A3ai and 1A3di)
@@ -2582,288 +2582,288 @@
     unit: EJ/yr
 - Price|Primary Energy|Biomass:
     definition: biomass producer price
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Primary Energy|Biomass
 - Price|Primary Energy|Coal:
     definition: coal price at the primary level (i.e. the spot price at the global
       or regional market)
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Primary Energy|Coal
 - Price|Primary Energy|Gas:
     definition: natural gas price at the primary level (i.e. the spot price at the
       global or regional market)
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Primary Energy|Gas
 - Price|Primary Energy|Oil:
     definition: crude oil price at the primary level (i.e. the spot price at the global
       or regional market)
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Primary Energy|Oil
 - Price|Secondary Energy|Electricity:
     definition: electricity price at the secondary level, i.e. for large scale consumers
       (e.g. aluminum production).  Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Electricity
 - Price|Secondary Energy|Gases:
     definition: gas price at the secondary level, i.e. for large scale consumers (e.g.
       gas power plant). Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Gases
 - Price|Secondary Energy|Gases|Biomass:
     definition: biogas price at the secondary level, i.e. for large scale consumers
       (e.g. gas power plant). Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Gases|Biomass
 - Price|Secondary Energy|Gases|Electricity:
     definition: synthetic gas price at the secondary level, i.e. for large scale consumers
       (e.g. gas power plant). Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Gases|Electricity
 - Price|Secondary Energy|Gases|Fossil:
     definition: fossil gas price at the secondary level, i.e. for large scale consumers
       (e.g. gas power plant). Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     skip-region-aggregation: true
 - Price|Secondary Energy|Hydrogen:
     definition: hydrogen price at the secondary level. Prices should include the effect
       of carbon prices
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Hydrogen
 - Price|Secondary Energy|Liquids:
     definition: liquid fuel price at the secondary level, i.e. petrol, diesel, or
       weighted average
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Liquids
 - Price|Secondary Energy|Liquids|Biomass:
     definition: biofuel price at the secondary level, i.e. for biofuel consumers
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Liquids|Biomass
 - Price|Secondary Energy|Liquids|Fossil:
     definition: liquid fossil fuels price at the secondary level, i.e. for large scale
       consumers (e.g. oil power plant). Prices should include the effect of carbon
       prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Liquids|Fossil
 - Price|Secondary Energy|Solids|Biomass:
     definition: price for solids from biomass at the secondary level, i.e. for large
       scale consumers (e.g. biomass power plant). Prices should include the effect
       of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Solids|Biomass
 - Price|Secondary Energy|Solids|Fossil:
     definition: price for solids from fossils at the secondary level, i.e. for large
       scale consumers (e.g. coal power plant). Prices should include the effect of
       carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Secondary Energy|Solids|Fossil
 - Price|Final Energy|Industry|Electricity:
     definition: electricity price at the final level in the industry sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Electricity
 - Price|Final Energy|Industry|Gases:
     definition: Price for gases at the final level in the industrial sector. Prices
       should include the effect of carbon prices and all other taxes.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Gases
 - Price|Final Energy|Industry|Heat:
     definition: Heat price at the final level in the industrial sector. Prices should
       include the effect of carbon prices and all other taxes.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Heat
 - Price|Final Energy|Industry|Liquids:
     definition: Liquids price at the final level in the industrial sector. Prices
       should include the effect of carbon prices and all other taxes.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Liquids
 - Price|Final Energy|Industry|Hydrogen:
     definition: Hydrogen price at the final level in the industrial sector. Prices
       should include the effect of carbon prices and all other taxes.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Hydrogen
 - Price|Final Energy|Industry|Solids:
     definition: Solids price at the final level in the industrial sector. Prices should
       include the effect of carbon prices and all other taxes.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Solids
 - Price|Final Energy|Industry|Gases|Fossil:
     definition: natural gas price at the final level in the industry sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Gases|Fossil
 - Price|Final Energy|Industry|Gases|Biomass:
     definition: biogas price at the final level in the industry sector. Prices should
       include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Gases|Biomass
 - Price|Final Energy|Industry|Gases|Electricity:
     definition: synthetic gas price at the final level in the industry sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Gases|Electricity
 - Price|Final Energy|Industry|Liquids|Biomass:
     definition: biofuel price at the final level in the industry sector. Prices should
       include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Liquids|Biomass
 - Price|Final Energy|Industry|Liquids|Electricity:
     definition: synthetic liquids fuel (e-fuel) price at the final level in the industry
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Liquids|Electricity
 - Price|Final Energy|Industry|Liquids|Fossil:
     definition: fossil liquid fuel (including oil, coal-to-liquids, gas-to-liquids)
       price at the final level in the industry sector. Prices should include the effect
       of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Liquids|Fossil
 - Price|Final Energy|Industry|Solids|Biomass:
     definition: price for solids from biomass at the final level in the industry sector.
       Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Solids|Biomass
 - Price|Final Energy|Industry|Solids|Fossil:
     definition: price for solids from fossils at the final level in the industry sector.
       Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Industry|Solids|Fossil
 - Price|Final Energy|Transportation|Electricity:
     definition: electricity price at the final level in the transportation sector.
       Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Electricity
 - Price|Final Energy|Transportation|Gases|Fossil:
     definition: natural gas price at the final level in the transportation sector.
       Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Gases|Fossil
 - Price|Final Energy|Transportation|Gases|Biomass:
     definition: biogas price at the final level in the transportation sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Gases|Biomass
 - Price|Final Energy|Transportation|Gases|Electricity:
     definition: synthetic gas price at the final level in the transportation sector.
       Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Gases|Fossil
 - Price|Final Energy|Transportation|Liquids|Biomass:
     definition: biofuel price at the final level in the transportation sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Liquids|Electricity
 - Price|Final Energy|Transportation|Liquids|Electricity:
     definition: synthetic liquids fuel (e-fuel) price at the final level in the transportation
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Liquids|Electricity
 - Price|Final Energy|Transportation|Liquids|Fossil:
     definition: fossil liquid fuel (including oil, coal-to-liquids, gas-to-liquids)
       price at the final level in the transportation sector. Prices should include
       the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Liquids|Fossil
 - Price|Final Energy|Transportation|Solids|Biomass:
     definition: price for solids from biomass at the final level in the transportation
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Solids|Biomass
 - Price|Final Energy|Transportation|Solids|Fossil:
     definition: price for solids from fossils at the final level in the transportation
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Transportation|Solids|Fossil
 - Price|Final Energy|Commercial|Electricity:
     definition: electricity price at the final level in the commercial sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Electricity
 - Price|Final Energy|Commercial|Gases|Fossil:
     definition: natural gas price at the final level in the commercial sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Gases|Fossil
 - Price|Final Energy|Commercial|Gases|Biomass:
     definition: biogas price at the final level in the commercial sector. Prices should
       include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Gases|Biomass
 - Price|Final Energy|Commercial|Gases|Electricity:
     definition: synthetic gas price at the final level in the commercial sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Gases|Electricity
 - Price|Final Energy|Commercial|Liquids|Biomass:
     definition: biofuel price at the final level in the commercial sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Liquids|Biomass
 - Price|Final Energy|Commercial|Liquids|Electricity:
     definition: synthetic liquids fuel (e-fuel) price at the final level in the commercial
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Liquids|Electricity
 - Price|Final Energy|Commercial|Liquids|Fossil:
     definition: fossil liquid fuel (including oil, coal-to-liquids, gas-to-liquids)
       price at the final level in the commercial sector. Prices should include the
       effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Liquids|Fossil
 - Price|Final Energy|Commercial|Solids|Biomass:
     definition: price for solids from biomass at the final level in the commercial
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Solids|Biomass
 - Price|Final Energy|Commercial|Solids|Fossil:
     definition: price for solids from fossils at the final level in the commercial
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Commercial|Solids|Fossil
 - Price|Final Energy|Residential and Commercial|Electricity:
     definition: electricity price at the final level in the residential and commercial
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Electricity
 - Price|Final Energy|Residential and Commercial|Gases|Fossil:
     definition: natural gas price at the final level in the residential and commercial
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Gases|Fossil
 - Price|Final Energy|Residential and Commercial|Gases|Biomass:
     definition: biogas price at the final level in the residential and commercial
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Gases|Biomass
 - Price|Final Energy|Residential and Commercial|Gases|Electricity:
     definition: synthetic gas price at the final level in the residential and commercial
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Gases|Electricity
 - Price|Final Energy|Residential and Commercial|Liquids|Biomass:
     definition: biofuel price at the final level in the residential and commercial
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Liquids|Biomass
 - Price|Final Energy|Residential and Commercial|Liquids|Electricity:
     definition: synthetic liquids fuel (e-fuel) price at the final level in the residential
       and commercial sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Liquids|Electricity
 - Price|Final Energy|Residential and Commercial|Liquids|Fossil:
     definition: fossil liquid fuel (including oil, coal-to-liquids, gas-to-liquids)
       price at the final level in the residential and commercial sector. Prices should
       include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Liquids|Fossil
 - Price|Final Energy|Residential and Commercial|Solids|Biomass:
     definition: price for solids from biomass at the final level in the residential
       and commercial sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Solids|Biomass
 - Price|Final Energy|Residential and Commercial|Solids|Fossil:
     definition: price for solids from fossils at the final level in the residential
       and commercial sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential and Commercial|Solids|Fossil
 - Reservoir Capacity|Electricity|Storage:
     definition: reservoir size of electricity storage technologies (e.g. pumped hydro,
@@ -3047,11 +3047,11 @@
 - Trade|Primary Energy|Gas|Value:
     definition: value of net exports of natural gas, at the global level these should
       add up to the trade losses only
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Trade|Primary Energy|Oil|Value:
     definition: value of net exports of crude oil, at the global level these should
       add up to the trade losses only
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Trade|Secondary Energy|Electricity|Volume:
     definition: net exports of electricity, at the global level these should add up
       to the trade losses only
@@ -3117,48 +3117,48 @@
 - Price|Final Energy|Residential|Electricity:
     definition: electricity price at the final level in the residential sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Electricity
 - Price|Final Energy|Residential|Gases|Fossil:
     definition: natural gas price at the final level in the residential sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Gases|Fossil
 - Price|Final Energy|Residential|Gases|Biomass:
     definition: biogas price at the final level in the residential sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Gases|Biomass
 - Price|Final Energy|Residential|Gases|Electricity:
     definition: synthetic gas price at the final level in the residential sector.
       Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Gases|Electricity
 - Price|Final Energy|Residential|Liquids|Biomass:
     definition: biofuel price at the final level in the residential sector. Prices
       should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Liquids|Biomass
 - Price|Final Energy|Residential|Liquids|Fossil:
     definition: fossil liquid fuel (including oil, coal-to-liquids, gas-to-liquids)
       price at the final level in the residential sector. Prices should include the
       effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Liquids|Fossil
 - Price|Final Energy|Residential|Liquids|Electricity:
     definition: synthetic liquids fuel (e-fuel) price at the final level in the residential
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Liquids|Electricity
 - Price|Final Energy|Residential|Solids|Biomass:
     definition: price for solids from biomass at the final level in the residential
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Solids|Biomass
 - Price|Final Energy|Residential|Solids|Fossil:
     definition: price for solids from fossils at the final level in the residential
       sector. Prices should include the effect of carbon prices.
-    unit: US$2010/GJ
+    unit: USD_2010/GJ
     weight: Final Energy|Residential|Solids|Fossil
 - Food Demand:
     definition: 'all food demand in calories (conversion factor: 1 kcal = 4,1868 kJ)'
@@ -3215,46 +3215,46 @@
     unit: '%'
 - Revenue|government:
     definition: government revenue
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Subsidies|Energy|Fossil:
     definition: Fossil fuel subsidies
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Subsidies|Energy:
     definition: Total energy-related subsidies
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Subsidies|Food:
     definition: Food subsidies (both to producers and consumers)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Tariffs|Average|Imports:
     definition: Average tariffs for imports (most relevant for developed countries)
     unit: '%'
 - Revenue|government|Tax:
     definition: government revenue from taxes
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Expenditure|Medical System|Incremental:
     definition: Incremental expenditure for the medical system
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Medical System:
     definition: investment to medical system
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Expenditure|household|Industry:
     definition: expenditure of households for industrial goods.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Expenditure|household|Energy:
     definition: expenditure of households for energy.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Expenditure|household|Food:
     definition: expenditure of households for food.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Expenditure|household|Services:
     definition: expenditure of households for services.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Expenditure|household|Services|health:
     definition: expenditure of households for health services.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Expenditure|Energy|Fossil:
     definition: Fossil fuel expenditure
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Material Consumption|Domestic:
     definition: Domestic material consumption
     unit: Mt/year
@@ -3276,10 +3276,10 @@
     unit: Mt/yr
 - Expenditure|RnD:
     definition: expenditure on research and development
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure:
     definition: investment into infrastrucutre
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Population|Mobile Network Access:
     definition: population covered by a mobile network
     unit: million
@@ -3289,311 +3289,311 @@
 - Investment:
     definition: Total economy wide investments (macroecomic capital stock, energy
       system, R&D, ...)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply:
     definition: Investments into the energy supply system
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity:
     definition: Investments into electricity generation and supply (including electricity
       storage and transmission & distribution)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Extraction|Fossil:
     definition: investments for all types of fossil extraction
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Extraction|Coal:
     definition: investments for extraction and conversion of coal. These should include
       mining, shipping and ports
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Extraction|Gas:
     definition: investments for extraction and conversion of natural gas. These should
       include upstream, LNG chain and transmission and distribution
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Extraction|Oil:
     definition: investments for extraction and conversion of oil. These should include
       upstream, transport and refining
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Extraction|Bioenergy:
     definition: investments for extraction and production of bioenergy
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Extraction|Uranium:
     definition: investments for extraction and conversion of uranium. These should
       include mining, conversion and enrichment
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Fossil:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Coal:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Coal|w/ CCS:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Coal|w/o CCS:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Gas:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Gas|w/ CCS:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Gas|w/o CCS:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Oil:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Oil|w/ CCS:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Oil|w/o CCS:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Non-fossil:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Biomass:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Biomass|w/ CCS:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Biomass|w/o CCS:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Nuclear:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Non-Biomass Renewables:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Hydro:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Solar:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Wind:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Geothermal:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Ocean:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Other:
     definition: investments in new power generation for the specified power plant
       category. If the model features several sub-categories, the total investments
       should be reported. For plants equipped with CCS, the investment in the capturing
       equipment should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Transmission and Distribution:
     definition: investments in transmission and distribution of power generation
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Electricity|Electricity Storage:
     definition: investments in electricity storage technologies (e.g., batteries,
       compressed air storage reservoirs, etc.)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Hydrogen|Fossil:
     definition: investments for the production of hydrogen from the specified source.
       For plants equipped with CCS, the investment in the capturing equipment should
       be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Hydrogen|Renewable:
     definition: investments for the production of hydrogen from the specified source.
       For plants equipped with CCS, the investment in the capturing equipment should
       be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Hydrogen|Other:
     definition: investments for the production of hydrogen from the specified source.
       For plants equipped with CCS, the investment in the capturing equipment should
       be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Liquids:
     definition: investments for the production of liquid fuels. For plants equipped
       with CCS, the investment in the capturing equipment should be included but not
       the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Liquids|Oil:
     definition: investments for the production of fossil fuels from oil refineries
       For plants equipped with CCS, the investment in the capturing equipment should
       be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Liquids|Coal and Gas:
     definition: investments for the production of fossil-based synfuels (coal and
       gas). For plants equipped with CCS, the investment in the capturing equipment
       should be included but not the one on transport and storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Liquids|Biomass:
     definition: investments for the production of biofuels. These should not include
       the costs of the feedstock. For plants equipped with CCS, the investment in
       the capturing equipment should be included but not the one on transport and
       storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|CO2 Transport and Storage:
     definition: investment in CO2 transport and storage (note that investment in the
       capturing equipment should be included along with the power plant technology)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Other:
     definition: investments in other types of energy conversion facilities
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Efficiency:
     definition: investments into the efficiency-increasing components of energy demand
       technologies
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Heat:
     definition: investments in heat generation facilities
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Supply|Hydrogen:
     definition: investments for the production of hydrogen from all energy sources
       (fossil, biomass, electrolysis). For plants equipped with CCS, the investment
       in the capturing equipment should be included but not the one on transport and
       storage.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|RnD|Energy Supply:
     definition: Investments into research and development, energy supply sector
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Demand|Transportation|Passenger|Road|LDV|ICE:
     definition: 'investments into new vehicle technologies in the transport sector
       (light-duty cars and trucks: internal combustion engine technologies running
       on any type of liquid or gaseous fuel)'
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Demand|Transportation|Passenger|Road|LDV|EV:
     definition: 'investments into new vehicle technologies in the transport sector
       (light-duty cars and trucks: electric vehicle technologies, including
       all-electrics and plug-in hybrids)'
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Demand|Transportation|Passenger|Road|LDV|FCV:
     definition: 'investments into new vehicle technologies in the transport sector
       (light-duty cars and trucks: fuel cell technologies running on hydrogen or another
       type of fuel)'
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Demand|Transportation|Freight|Road|HDT|ICE:
     definition: 'investments into new vehicle technologies in the transport sector
       (heavy-duty freight trucks: internal combustion engine technologies running
       on any type of liquid or gaseous fuel)'
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Demand|Transportation|Freight|Road|HDT|EV:
     definition: 'investments into new vehicle technologies in the transport sector
       (heavy-duty freight trucks: electric vehicle technologies, including all-electrics
       and plug-in hybrids)'
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Energy Demand|Transportation|Freight|Road|HDT|FCV:
     definition: 'investments into new vehicle technologies in the transport sector
       (heavy-duty freight trucks: fuel cell technologies running on hydrogen or another
       type of fuel)'
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Transport:
     definition: investment into transport infrastructure - both newly constructed
       and maintenance of existing (all types including roads, bridges, ports, railways, refueling
       stations and charging infrastructure, etc.).
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Residential and Commercial|Low-Efficiency Buildings:
     definition: investment into residential and commercial buildings infrastructure
       (all types of new buildings that are relatively low in their energy efficiency)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Residential and Commercial|Medium-Efficiency Buildings:
     definition: investment into residential and commercial buildings infrastructure
       (all types of new buildings that are relatively medium-range in their energy
       efficiency)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Residential and Commercial|High-Efficiency Buildings:
     definition: investment into residential and commercial buildings infrastructure
       (all types of new buildings that are relatively high in their energy efficiency)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Residential and Commercial|Building Retrofits:
     definition: investment into residential and commercial buildings infrastructure
       (all types of existing buildings that have been retrofitted to become more energy
       efficient)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Industry|Green:
     definition: investment into industrial infrastructure (all types of new factories,
       plants, manufacturing facilities, etc. that are more efficient and utilize clean
       energy, as well as retrofits of non-green infrastructure to be more efficient
       and use clean energy)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Industry|Non-Green:
     definition: investment into industrial infrastructure (all types of new factories,
       plants, manufacturing facilities, etc. that are not overly efficient and do
       not utilize clean energy, as well as retrofits of non-green infrastructure that
       are neither efficient nor use clean energy)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Cooling:
     definition: investment into water-related infrastructure (thermal cooling at energy
       and industrial facilities)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Irrigation:
     definition: investment into water-related infrastructure (conveyance of water
       via canals, aqueducts, irrigation ditches, pumps, etc.)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Other:
     definition: investment into water-related infrastructure (other than for thermal
       cooling and irrigation)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Land Cover|Built-up Area:
     definition: total built-up land associated with human settlement
     unit: million ha
@@ -3643,51 +3643,51 @@
 - Price|Carbon|Net|Industry:
     definition: Net price of carbon applicable at national level for industry sector
       (= sum of all overlapping regulations)
-    unit: US$2010/t CO2
+    unit: USD_2010/t CO2
     weight: Emissions|CO2|Industrial Processes
 - Policy Cost|Additional Total Energy System Cost:
     definition: additional energy system cost associated with the policy
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Policy Cost|Area under MAC Curve:
     definition: total costs of the policy, i.e. the area under the Marginal Abatement
       Cost (MAC) curve
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Policy Cost|Consumption Loss:
     definition: consumption loss in a policy scenario compared to the corresponding
       baseline (losses should be reported as positive numbers)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Policy Cost|Equivalent Variation:
     definition: equivalent variation associated with the given policy
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Policy Cost|GDP Loss:
     definition: GDP loss in a policy scenario compared to the corresponding baseline
       (losses should be reported as positive numbers)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Policy Cost|Other:
     definition: any other indicator of policy cost (e.g., compensated variation).
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Policy Cost|Default:
     definition: total costs of the policy in the default metric (consumption losses
       for GE models, area under MAC curve for PE models if available) to be used for
       calculation of Cost over Abatement Value (CAV) indicator. Must be identical
       to the policy costs in one of the reported metrics.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Direct Risk|Asset Loss:
     definition: The risk of asset losses expressed in terms of their probability
       of occurrence and destruction in monetary terms is modelled as a function of
       hazard (frequency and intensity), the elements exposed to those hazards and their
       physical sensitivity.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Fiscal Gap:
     definition: The potential fiscal gap, is assessed by simulating the risks to assets
       and fiscal resilience following stochastic disasters of different magnitudes.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Fiscal Resilience:
     definition: Fiscal resilience is defined as the access to domestic and external
       resources for absorbing asset risks (availability for budget diversion, access
       to domestic and international credit, availablitiy of insurance and other innovative
       financing instruments).
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Indirect Risk|GDP Growth:
     definition: The consequences of a fiscal vulnerability and associated gaps on
       macroeconomic development of the country are characterized with indicators, such
@@ -3697,102 +3697,102 @@
     definition: The consequences of a fiscal vulnerability and associated gaps on
       macroeconomic development of the country are characterized with indicators, such
       as economic growth or the country's external debt position.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Capital Cost|Electricity|Biomass|w/ CCS:
     definition: Capital cost of a new biomass power plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Biomass|w/o CCS:
     definition: Capital cost of a new biomass power plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Coal|w/ CCS:
     definition: Capital cost of a new coal power plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Coal|w/o CCS:
     definition: Capital cost of a new coal power plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Gas|w/ CCS:
     definition: Capital cost of a new gas power plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Gas|w/o CCS:
     definition: Capital cost of a new gas power plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Geothermal:
     definition: Capital cost of a new geothermal power plant.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Hydro:
     definition: Capital cost of a new hydropower plant.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Nuclear:
     definition: Capital cost of a new nuclear power plants.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Solar|CSP:
     definition: Capital cost of a new concentrated solar power plant.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Solar|PV:
     definition: Capital cost of a new solar PV units.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Wind|Offshore:
     definition: Capital cost of a new offshore wind power plants. This variable should
       only be filled, if wind power is separated into onshore and offshore.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Electricity|Wind|Onshore:
     definition: Capital cost of a new onshore wind power plants. This variable should
       only be filled, if wind power is separated into onshore and offshore.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Gases|Biomass|w/ CCS:
     definition: Capital cost of a new biomass to gas plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Gases|Biomass|w/o CCS:
     definition: Capital cost of a new biomass to gas plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Gases|Coal|w/ CCS:
     definition: Capital cost of a new coal to gas plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Gases|Coal|w/o CCS:
     definition: Capital cost of a new coal to gas plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Hydrogen|Biomass|w/ CCS:
     definition: Capital cost of a new biomass to hydrogen plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Hydrogen|Biomass|w/o CCS:
     definition: Capital cost of a new biomass to hydrogen plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Hydrogen|Coal|w/ CCS:
     definition: Capital cost of a new coal to hydrogen plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Hydrogen|Coal|w/o CCS:
     definition: Capital cost of a new coal to hydrogen plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Hydrogen|Electricity:
     definition: Capital cost of a new hydrogen-by-electrolysis plant.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Hydrogen|Gas|w/ CCS:
     definition: Capital cost of a new gas to hydrogen plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Hydrogen|Gas|w/o CCS:
     definition: Capital cost of a new gas to hydrogen plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Liquids|Biomass|w/ CCS:
     definition: Capital cost of a new biomass to liquids plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Liquids|Biomass|w/o CCS:
     definition: Capital cost of a new biomass to liquids plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Liquids|Coal|w/ CCS:
     definition: Capital cost of a new coal to liquids plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Liquids|Coal|w/o CCS:
     definition: Capital cost of a new coal to liquids plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Liquids|Gas|w/ CCS:
     definition: Capital cost of a new gas to liquids plant with CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Liquids|Gas|w/o CCS:
     definition: Capital cost of a new gas to liquids plant w/o CCS.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Capital Cost|Liquids|Oil:
     definition: Capital cost of a new oil refining plant.
-    unit: US$2010/kW
+    unit: USD_2010/kW
 - Efficiency|Electricity|Biomass|w/ CCS:
     definition: Conversion efficiency (electricity produced per unit of primary energy
       input) of a new biomass power plant with CCS.
@@ -3989,224 +3989,224 @@
 - OM Cost|Fixed|Electricity|Biomass|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new biomass power
       plant with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Biomass|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new biomass power
       plant w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Coal|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new coal power plant
       with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Coal|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new coal power plant
       w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Gas|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new gas power plant
       with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Gas|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new gas power plant
       w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Hydro:
     definition: Annual fixed operation & maintainance cost of a new hydropower plant.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Nuclear:
     definition: Annual fixed operation & maintainance cost of a new nuclear power
       plants.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Geothermal:
     definition: Annual fixed operation & maintainance cost of a new geothermal power
       plants.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Solar|CSP:
     definition: Annual fixed operation & maintainance cost of a new concentrated solar
       power plant.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Solar|PV:
     definition: Annual fixed operation & maintainance cost of a new solar PV units.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Wind:
     definition: Annual fixed operation & maintainance cost of a new wind power plants.
       This variable should only be filled, if wind power is not separated into onshore
       and offshore.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Wind|Offshore:
     definition: Annual fixed operation & maintainance cost of a new offshore wind
       power plants. This variable should only be filled, if wind power is separated
       into onshore and offshore.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Electricity|Wind|Onshore:
     definition: Annual fixed operation & maintainance cost of a new onshore wind power
       plants. This variable should only be filled, if wind power is separated into
       onshore and offshore.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Gases|Biomass|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new biomass to gas
       plant with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Gases|Biomass|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new biomass to gas
       plant w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Gases|Coal|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new coal to gas plant
       with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Gases|Coal|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new coal to gas plant
       w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Hydrogen|Biomass|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new biomass to hydrogen
       plant with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Hydrogen|Biomass|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new biomass to hydrogen
       plant w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Hydrogen|Coal|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new coal to hydrogen
       plant with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Hydrogen|Coal|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new coal to hydrogen
       plant w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Hydrogen|Electricity:
     definition: Annual fixed operation & maintainance cost of a new hydrogen-by-electrolysis
       plant.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Hydrogen|Gas|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new gas to hydrogen
       plant with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Hydrogen|Gas|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new gas to hydrogen
       plant w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Liquids|Biomass|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new biomass to liquids
       plant with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Liquids|Biomass|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new biomass to liquids
       plant w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Liquids|Coal|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new coal to liquids
       plant with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Liquids|Coal|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new coal to liquids
       plant w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Liquids|Gas|w/ CCS:
     definition: Annual fixed operation & maintainance cost of a new gas to liquids
       plant with CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Liquids|Gas|w/o CCS:
     definition: Annual fixed operation & maintainance cost of a new gas to liquids
       plant w/o CCS.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - OM Cost|Fixed|Liquids|Oil:
     definition: Annual fixed operation & maintainance cost of a new oil refining plant.
-    unit: US$2010/kW/yr
+    unit: USD_2010/kW/yr
 - Export|Agriculture:
     definition: export of agricultural commodities measured in monetary units.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Energy:
     definition: export of energy commodities measured in monetary units.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry:
     definition: export of industrial (non-energy) commodities measured in monetary
       units.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Agriculture:
     definition: import of agricultural commodities measured in monetary units.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Energy:
     definition: import of energy commodities measured in monetary units.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry:
     definition: import of industrial (non-energy) commodities measured in monetary
       units.
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Trade:
     definition: net exports of all goods, at the global level these should add up
       to the trade losses only
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Iron and Steel:
     definition: Export of iron & steel measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Iron and Steel|Primary:
     definition: Export of primary steel measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Iron and Steel|Secondary:
     definition: Export of secondary steel measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Non-Ferrous Metals|Aluminum:
     definition: Export of aluminium measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Non-Ferrous Metals:
     definition: Export of non-ferrous metals measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Chemicals:
     definition: Export of chemicals measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Chemicals|High Value Chemicals:
     definition: Export of high value chemicals measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Chemicals|Plastics:
     definition: Export of plastics measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Non-Metallic Minerals:
     definition: Export of non-metallic minerals measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Industry|Non-Metallic Minerals|Cement:
     definition: Export of cement measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Export|Other:
     definition: Export of other commodities measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Non-Metallic Minerals|Cement:
     definition: Import of cement measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Iron and Steel:
     definition: Import of iron & steel measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Iron and Steel|Primary Steel:
     definition: Import of primary steel measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Iron and Steel|Secondary Steel:
     definition: Import of secondary steel measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Non-Ferrous Metals|Aluminum:
     definition: Import of aluminium measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Non-Ferrous Metals:
     definition: Import of non-ferrous metals measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Chemicals|High Value Chemicals:
     definition: Import of high value chemicals measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Chemicals|Plastics:
     definition: Import of plastics measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Non-Metallic Minerals:
     definition: Import of non-metallic minerals measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Pulp and Paper:
     definition: Import of pulp and paper measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Industry|Other Sector:
     definition: Import of other industry products measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Import|Other:
     definition: import of other commodities measured in monetary units
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Water Consumption:
     definition: total water consumption
     unit: km3/yr
@@ -5047,31 +5047,31 @@
     unit: Mt/yr
 - Production|Non-Metallic Minerals|Value:
     definition: Production of non-metallic minerals
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Non-Metallic Minerals|Cement|Value:
     definition: Production of cement
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Non-Ferrous Metals|Value:
     definition: production of non-ferrous metals (e.g., aluminum)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Iron and Steel|Value:
     definition: production of steel
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Iron and Steel|Primary Steel|Value:
     definition: Production of primary / virgin steel
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Iron and Steel|Secondary Steel|Value:
     definition: Production of secondary steel from recycling of scrap
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Chemicals|Value:
     definition: production of chemicals (e.g. sulfuric acid)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Pulp and Paper|Value:
     definition: production of pulp and paper
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Production|Other Sector|Value:
     definition: production of other industry products
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Materials Demand|Non-Ferrous Metals|Residential and Commercial:
     definition: Non-ferrous metals requirments from a certain end-use sector
     unit: Mt/yr
@@ -5230,87 +5230,87 @@
     unit: Mt/yr
 - Price|Industry|Iron and Steel|Scrap:
     definition: Price of iron & steel scrap
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Ferrous Metals|Scrap:
     definition: Price of non-ferrous metals scrap
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Iron and Steel|Iron Ore:
     definition: Price of iron ore
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Iron and Steel|Pig Iron:
     definition: Price of pig iron
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Iron and Steel|Sponge Iron:
     definition: Price of sponge iron
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Iron and Steel:
     definition: Price of iron & steel
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Iron and Steel|Primary:
     definition: Price of primary steel
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Iron and Steel|Secondary:
     definition: Price of secondary steel
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Ferrous Metals|Bauxite:
     definition: Price of bauxite
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Ferrous Metals|Alumina:
     definition: Price of alumina
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Ferrous Metals|Aluminium:
     definition: Price of aluminium
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Ferrous Metals:
     definition: Price of non-ferrous metals
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Metallic Minerals|Limestone:
     definition: Price of limestone
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Metallic Minerals|Clinker:
     definition: Price of clinker
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Metallic Minerals|Cement:
     definition: Price of cement
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Non-Metallic Minerals:
     definition: Price of non-metallic minerals
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Chemicals|Naphtha:
     definition: Price of naphta
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Chemicals|Ethane:
     definition: Price of ethane
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Chemicals|High Value Chemicals:
     definition: Price of high value chemicals
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Chemicals|Plastics:
     definition: Price of plastics
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Price|Industry|Chemicals:
     definition: Price of chemicals
-    unit: US$2010/Mt
+    unit: USD_2010/Mt
     skip-region-aggregation: true
 - Consumption|D1:
     definition: Share of  total consumption accruing to each Decile
@@ -5474,34 +5474,34 @@
     unit: million t DM/yr
 - Price|Drinking Water:
     definition: price for m3 of drinking water distributed to the users
-    unit: US$2010/m3
+    unit: USD_2010/m3
 - Investment|Infrastructure|Water|Distribution:
     definition: Investment into water distribution infrastructure
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Distribution|Urban:
     definition: Investment into urban water distribution infrastructure
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Distribution|Rural:
     definition: Investment into rural water distribution infrastructure
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Treatment & Recycling:
     definition: Investment into water treatment and recycling infrastructure
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Treatment & Recycling|Urban:
     definition: Investment into urban water treatment and recycling infrastructure
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Treatment & Recycling|Rural:
     definition: Investment into rural water treatment and recycling infrastructure
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Desalination:
     definition: Investment into water desalination infrastructure
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Agriculture:
     definition: Investment into agriculture activity
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Forestry:
     definition: Investment into growing forests
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Land Cover|Protected Area:
     definition: Land-use coverage of officially protected area
     unit: million ha
@@ -5757,7 +5757,7 @@
 - Energy Service|Residential|Renovation Cost:
     definition: Renovation cost of residential buildings including material and labour
       costs
-    unit: US$2010/m2
+    unit: USD_2010/m2
     weight: Energy Service|Residential|Floor Space
 - Energy Service|Residential|Renovation Rate:
     definition: Annual renovation rate of residential buildings (% of current stock)
@@ -5766,7 +5766,7 @@
 - Energy Service|Residential|Renovation Cost|Multi-family:
     definition: Renovation cost of residential multi-family housing including material
       and labour costs
-    unit: US$2010/m2
+    unit: USD_2010/m2
     weight: Energy Service|Residential|Floor Space|Multi-family
 - Energy Service|Residential|Renovation Rate|Multi-family:
     definition: Annual renovation rate of residential multi-family housing (% of current
@@ -5776,7 +5776,7 @@
 - Energy Service|Residential|Renovation Cost|Single-family:
     definition: Renovation cost of residential single-family housing including material
       and labour costs
-    unit: US$2010/m2
+    unit: USD_2010/m2
     weight: Energy Service|Residential|Floor Space|Single-family
 - Energy Service|Residential|Renovation Rate|Single-family:
     definition: Annual renovation rate of residential single-family housing (% of
@@ -5789,7 +5789,7 @@
 - Energy Service|Commercial|Renovation Cost:
     definition: Renovation cost of commercial buildings including material and labour
       costs
-    unit: US$2010/m2
+    unit: USD_2010/m2
     weight: Energy Service|Commercial|Floor Space
 - Energy Service|Commercial|Renovation Rate:
     definition: Annual renovation rate of commercial buildings (% of current stock)
@@ -5798,19 +5798,19 @@
 - Investment|Infrastructure|Residential|Building Retrofits:
     definition: investment into residential buildings infrastructure (all types of
       existing buildings that have been retrofitted to become more energy efficient)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Residential|High-Efficiency Buildings:
     definition: investment into residential buildings infrastructure (all types of
       new buildings that are relatively high in their energy efficiency)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Residential|Low-Efficiency Buildings:
     definition: investment into residential buildings infrastructure (all types of
       new buildings that are relatively low in their energy efficiency)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Investment|Infrastructure|Residential|Medium-Efficiency Buildings:
     definition: investment into residential buildings infrastructure (all types of
       new buildings that are relatively medium-range in their energy efficiency)
-    unit: billion US$2010/yr
+    unit: billion USD_2010/yr
 - Energy Service|Bunkers|Passenger|International Shipping:
     definition: energy service demand for passenger transport operating on international
       shipping routes
