@@ -1270,9 +1270,6 @@
 - Capacity|Electricity|Transmissions Grid:
     definition: Total installed capacity of operating transmission grid
     unit: GWkm
-- Final Energy|Non-Energy Use|Gases|Biomass:
-    definition: Final energy consumption of biogas by the non-combustion processes
-    unit: EJ/yr
 - Final Energy|Non-Energy Use|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
       by the non-combustion processes
@@ -1286,25 +1283,6 @@
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)by the non-combustion
       processes
     unit: EJ/yr
-- Final Energy|Non-Energy Use|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the non-combustion
-      processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquids of fossil origin by
-      the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Solids|Coal:
-    definition: Final energy coal consumption by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Chemicals|Gases|Biomass:
-    definition: Final energy consumption of biogas by the chemical sector by the non-combustion
-      processes
-    unit: EJ/yr
 - Final Energy|Non-Energy Use|Chemicals|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
       by the chemical sector by the non-combustion processes
@@ -1313,30 +1291,10 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the chemical sector by the non-combustion processes
     unit: EJ/yr
-- Final Energy|Non-Energy Use|Chemicals|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the chemical sector
-      by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Chemicals|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the chemical sector by the non-combustion processes
-    unit: EJ/yr
 - Final Energy|Non-Energy Use|Chemicals|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin (conventional
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)by the chemical
       sector by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Chemicals|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the chemical sector by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Chemicals|Solids|Coal:
-    definition: Final energy consumption of coal by the chemical sector by the non-combustion
-      processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Iron and Steel|Gases|Biomass:
-    definition: Final energy consumption of biogas by the iron and steel sector by
-      the non-combustion processes
     unit: EJ/yr
 - Final Energy|Non-Energy Use|Iron and Steel|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
@@ -1346,31 +1304,10 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the iron and steel sector by the non-combustion processes
     unit: EJ/yr
-- Final Energy|Non-Energy Use|Iron and Steel|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the iron and steel sector by the non-combustion
-      processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Iron and Steel|Solids|Coal:
-    definition: Final energy consumption of coal by the iron and steel sector by the
-      non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Iron and Steel|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the iron and steel
-      sector by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Iron and Steel|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the iron and steel sector by the non-combustion processes
-    unit: EJ/yr
 - Final Energy|Non-Energy Use|Iron and Steel|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin (conventional
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)by the iron and
       steel sector by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Metallic Minerals|Gases|Biomass:
-    definition: Final energy consumption of biogas by the non-metallic minerals sector
-      by the non-combustion processes
     unit: EJ/yr
 - Final Energy|Non-Energy Use|Non-Metallic Minerals|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
@@ -1380,31 +1317,10 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the non-metallic minerals sector by the non-combustion processes
     unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Metallic Minerals|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the non-metallic minerals
-      sector by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Metallic Minerals|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the non-metallic minerals sector by the non-combustion processes
-    unit: EJ/yr
 - Final Energy|Non-Energy Use|Non-Metallic Minerals|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin (conventional
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)by the non-metallic
       minerals sector by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Metallic Minerals|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the non-metallic minerals sector by the non-combustion
-      processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Metallic Minerals|Solids|Coal:
-    definition: Final energy consumption of coal by the non-metallic minerals sector
-      by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Ferrous Metals|Gases|Biomass:
-    definition: Final energy consumption of biogas by the Non-Ferrous Metals sector
-      by the non-combustion processes
     unit: EJ/yr
 - Final Energy|Non-Energy Use|Non-Ferrous Metals|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
@@ -1414,27 +1330,10 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the Non-Ferrous Metals sector by the non-combustion processes
     unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Ferrous Metals|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the Non-Ferrous Metals
-      sector by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Ferrous Metals|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the Non-Ferrous Metals sector by the non-combustion processes
-    unit: EJ/yr
 - Final Energy|Non-Energy Use|Non-Ferrous Metals|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin (conventional
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)by the Non-Ferrous
       Metals sector by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Ferrous Metals|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the Non-Ferrous Metals sector by the non-combustion
-      processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Non-Ferrous Metals|Solids|Coal:
-    definition: Final energy consumption of coal by the Non-Ferrous Metals sector
-      by the non-combustion processes
     unit: EJ/yr
 - Final Energy|Non-Energy Use|Pulp and Paper|Gases|Biomass:
     definition: Final energy consumption of biogas by the Pulp and Paper sector by
@@ -1470,10 +1369,6 @@
     definition: Final energy consumption of coal by the Pulp and Paper sector by the
       non-combustion processes
     unit: EJ/yr
-- Final Energy|Non-Energy Use|Other Sector|Gases|Biomass:
-    definition: Final energy consumption of biogas by other industries by the non-combustion
-      processes
-    unit: EJ/yr
 - Final Energy|Non-Energy Use|Other Sector|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
       by other industries by the non-combustion processes
@@ -1482,31 +1377,10 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by other industries by the non-combustion processes
     unit: EJ/yr
-- Final Energy|Non-Energy Use|Other Sector|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by other industries by
-      the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Other Sector|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by other industries by the non-combustion processes
-    unit: EJ/yr
 - Final Energy|Non-Energy Use|Other Sector|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin (conventional
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)by other industries
       by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Other Sector|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by other industries by the non-combustion processes
-    unit: EJ/yr
-- Final Energy|Non-Energy Use|Other Sector|Solids|Coal:
-    definition: Final energy consumption of coal by other industries by the non-combustion
-      processes
-    unit: EJ/yr
-- Final Energy|Solids|Biomass:
-    definition: final energy consumption of solid biomass (modern and traditional),
-      excluding final energy consumption of bioliquids which are reported in the liquids
-      category
     unit: EJ/yr
 - Final Energy|Solids|Biomass|Traditional:
     definition: final energy solid fuel consumption of traditional biomass
@@ -1514,36 +1388,18 @@
 - Final Energy|Solids|Fossil:
     definition: final energy consumption of fossil solids
     unit: EJ/yr
-- Final Energy|Gases|Biomass:
-    definition: final energy consumption of biogas
-    unit: EJ/yr
 - Final Energy|Gases|Electricity:
     definition: final energy consumption of synthetic e-fuel gas ("power-to-gas")
     unit: EJ/yr
 - Final Energy|Gases|Fossil:
     definition: final energy consumption of synthetic or derived gases of fossil origin
     unit: EJ/yr
-- Final Energy|Liquids|Biomass:
-    definition: final energy consumption of liquid biofuels
-    unit: EJ/yr
-- Final Energy|Liquids|Electricity:
-    definition: final energy consumption of synthetic liquid efuels ("power-to-liquid")
-    unit: EJ/yr
 - Final Energy|Liquids|Fossil:
     definition: final energy consumption of liquids from fossil origin (conventional
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)
     unit: EJ/yr
-- Final Energy|Industry|Solids|Biomass:
-    definition: final energy consumption by the industrial sector of solid biomass
-      (modern and traditional), excluding final energy consumption of bioliquids which
-      are reported in the liquids category
-    unit: EJ/yr
 - Final Energy|Industry|Solids|Fossil:
     definition: final energy consumption of fossil solids by the industrial sector
-    unit: EJ/yr
-- Final Energy|Industry|Gases|Biomass:
-    definition: final energy consumption by the industrial sector of biogas, excluding
-      transmission/distribution losses
     unit: EJ/yr
 - Final Energy|Industry|Gases|Electricity:
     definition: final energy consumption by the industrial sector of synthetic e-fuel
@@ -1553,19 +1409,9 @@
     definition: final energy consumption by the industrial sector of  synthetic or
       derived gases of fossil origin, excluding transmission/distribution losses
     unit: EJ/yr
-- Final Energy|Industry|Liquids|Biomass:
-    definition: final energy consumption by the industrial sector of liquid biofuels
-    unit: EJ/yr
-- Final Energy|Industry|Liquids|Electricity:
-    definition: final energy consumption by the industrial sector of liquid efuels
-      ("power-to-liquid")
-    unit: EJ/yr
 - Final Energy|Industry|Liquids|Fossil:
     definition: final energy consumption by the industrial sector of liquids from
       fossil origin (conventional & unconventional petroleum, coal-to-liquids, gas-to-liquids)
-    unit: EJ/yr
-- Final Energy|Industry|Non-Metallic Minerals|Gases|Biomass:
-    definition: Final energy consumption of biogas by the non-metallic minerals sector
     unit: EJ/yr
 - Final Energy|Industry|Non-Metallic Minerals|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
@@ -1575,25 +1421,10 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the non-metallic minerals sector
     unit: EJ/yr
-- Final Energy|Industry|Non-Metallic Minerals|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the non-metallic minerals
-      sector
-    unit: EJ/yr
-- Final Energy|Industry|Non-Metallic Minerals|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the non-metallic minerals sector
-    unit: EJ/yr
 - Final Energy|Industry|Non-Metallic Minerals|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin (conventional
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)by the non-metallic
       minerals sector
-    unit: EJ/yr
-- Final Energy|Industry|Non-Metallic Minerals|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the non-metallic minerals sector
-    unit: EJ/yr
-- Final Energy|Industry|Non-Metallic Minerals|Solids|Coal:
-    definition: Final energy consumption of coal by the non-metallic minerals sector
     unit: EJ/yr
 - Final Energy|Industry|Non-Metallic Minerals|Solar:
     definition: Final energy consumption of solar thermal heat by the non-metallic
@@ -1607,9 +1438,6 @@
     definition: Final energy consumption of non-renewable waste by the non-metallic
       minerals sector
     unit: EJ/yr
-- Final Energy|Industry|Chemicals|Gases|Biomass:
-    definition: Final energy consumption of biogas by the chemicals sector
-    unit: EJ/yr
 - Final Energy|Industry|Chemicals|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
       by the chemicals sector
@@ -1618,23 +1446,9 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the chemicals sector
     unit: EJ/yr
-- Final Energy|Industry|Chemicals|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the chemicals sector
-    unit: EJ/yr
-- Final Energy|Industry|Chemicals|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the chemicals sector
-    unit: EJ/yr
 - Final Energy|Industry|Chemicals|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin by the chemicals
       sector
-    unit: EJ/yr
-- Final Energy|Industry|Chemicals|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the chemicals sector
-    unit: EJ/yr
-- Final Energy|Industry|Chemicals|Solids|Coal:
-    definition: Final energy consumption of coal by the chemicals sector
     unit: EJ/yr
 - Final Energy|Industry|Chemicals|Solar:
     definition: Final energy consumption of solar thermal heat by the chemicals sector
@@ -1645,9 +1459,6 @@
 - Final Energy|Industry|Chemicals|Waste:
     definition: Final energy consumption of non-renewable waste by the chemicals sector
     unit: EJ/yr
-- Final Energy|Industry|Iron and Steel|Gases|Biomass:
-    definition: Final energy consumption of biogas by the iron and steel sector
-    unit: EJ/yr
 - Final Energy|Industry|Iron and Steel|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
       by the iron and steel sector
@@ -1656,24 +1467,9 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the iron and steel sector
     unit: EJ/yr
-- Final Energy|Industry|Iron and Steel|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the iron and steel
-      sector
-    unit: EJ/yr
-- Final Energy|Industry|Iron and Steel|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the iron and steel sector
-    unit: EJ/yr
 - Final Energy|Industry|Iron and Steel|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin by the iron and
       steel sector
-    unit: EJ/yr
-- Final Energy|Industry|Iron and Steel|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the iron and steel sector
-    unit: EJ/yr
-- Final Energy|Industry|Iron and Steel|Solids|Coal:
-    definition: Final energy consumption of coal by the iron and steel sector
     unit: EJ/yr
 - Final Energy|Industry|Iron and Steel|Solar:
     definition: Final energy consumption of solar thermal heat by the iron and steel
@@ -1687,9 +1483,6 @@
     definition: Final energy consumption of non-renewable waste by the iron and steel
       sector
     unit: EJ/yr
-- Final Energy|Industry|Other Sector|Gases|Biomass:
-    definition: Final energy consumption of biogas by other industry sectors
-    unit: EJ/yr
 - Final Energy|Industry|Other Sector|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
       by other industry sectors
@@ -1698,23 +1491,9 @@
     definition: Final energy consumption of gases of fossil origin by other industry
       sectors
     unit: EJ/yr
-- Final Energy|Industry|Other Sector|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by other industry sectors
-    unit: EJ/yr
-- Final Energy|Industry|Other Sector|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by other industry sectors
-    unit: EJ/yr
 - Final Energy|Industry|Other Sector|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin by other industry
       sectors
-    unit: EJ/yr
-- Final Energy|Industry|Other Sector|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by other industry sectors
-    unit: EJ/yr
-- Final Energy|Industry|Other Sector|Solids|Coal:
-    definition: Final energy consumption of coal by other industry sectors
     unit: EJ/yr
 - Final Energy|Industry|Other Sector|Solar:
     definition: Final energy consumption of solar thermal heat by other industry sectors
@@ -1726,9 +1505,6 @@
     definition: Final energy consumption of non-renewable waste by other industry
       sectors
     unit: EJ/yr
-- Final Energy|Industry|Pulp and Paper|Gases|Biomass:
-    definition: Final energy consumption of biogas by the pulp and paper sector
-    unit: EJ/yr
 - Final Energy|Industry|Pulp and Paper|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
       by the pulp and paper sector
@@ -1737,24 +1513,9 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the pulp and paper sector
     unit: EJ/yr
-- Final Energy|Industry|Pulp and Paper|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the pulp and paper
-      sector
-    unit: EJ/yr
-- Final Energy|Industry|Pulp and Paper|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the pulp and paper sector
-    unit: EJ/yr
 - Final Energy|Industry|Pulp and Paper|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin by the pulp and
       paper sector
-    unit: EJ/yr
-- Final Energy|Industry|Pulp and Paper|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the pulp and paper sector
-    unit: EJ/yr
-- Final Energy|Industry|Pulp and Paper|Solids|Coal:
-    definition: Final energy consumption of coal by the pulp and paper sector
     unit: EJ/yr
 - Final Energy|Industry|Pulp and Paper|Solar:
     definition: Final energy consumption of solar thermal heat by the pulp and paper
@@ -1768,9 +1529,6 @@
     definition: Final energy consumption of non-renewable waste by the pulp and paper
       sector
     unit: EJ/yr
-- Final Energy|Industry|Non-Ferrous Metals|Gases|Biomass:
-    definition: Final energy consumption of biogas by the non-ferrous metals sector
-    unit: EJ/yr
 - Final Energy|Industry|Non-Ferrous Metals|Gases|Electricity:
     definition: Final energy consumption of synthetic e-fuel gas ("power-to-gas")
       by the non-ferrous metals sector
@@ -1779,25 +1537,10 @@
     definition: Final energy consumption of synthetic or derived gases of fossil origin
       by the non-ferrous metals sector
     unit: EJ/yr
-- Final Energy|Industry|Non-Ferrous Metals|Liquids|Biomass:
-    definition: Final energy consumption of liquid biofuels by the non-ferrous metals
-      sector
-    unit: EJ/yr
-- Final Energy|Industry|Non-Ferrous Metals|Liquids|Electricity:
-    definition: Final energy consumption of synthetic liquid efuels ("power-to-liquid")
-      by the non-ferrous metals sector
-    unit: EJ/yr
 - Final Energy|Industry|Non-Ferrous Metals|Liquids|Fossil:
     definition: Final energy consumption of liquids of fossil origin (conventional
       & unconventional petroleum, coal-to-liquids, gas-to-liquids)by the non-ferrous
       metals sector
-    unit: EJ/yr
-- Final Energy|Industry|Non-Ferrous Metals|Solids|Biomass:
-    definition: Final energy consumption of solid biomass (modern and traditional,
-      including renewable waste) by the non-ferrous metals sector
-    unit: EJ/yr
-- Final Energy|Industry|Non-Ferrous Metals|Solids|Coal:
-    definition: Final energy consumption of coal by the non-ferrous metals sector
     unit: EJ/yr
 - Final Energy|Industry|Non-Ferrous Metals|Solar:
     definition: Final energy consumption of solar thermal heat by the non-ferrous
@@ -1811,19 +1554,12 @@
     definition: Final energy consumption of non-renewable waste by the non-ferrous
       metals sector
     unit: EJ/yr
-- Final Energy|Residential|Solids|Biomass:
-    definition: final energy solid biomass consumption by the residential sector
-    unit: EJ/yr
 - Final Energy|Residential|Solids|Biomass|Traditional:
     definition: final energy solid traditional biomass consumption by the residential
       sector
     unit: EJ/yr
 - Final Energy|Residential|Solids|Fossil:
     definition: final energy consumption of fossil solids by the residential sector
-    unit: EJ/yr
-- Final Energy|Residential|Gases|Biomass:
-    definition: final energy consumption by the residential sector of biogas, excluding
-      transmission/distribution losses
     unit: EJ/yr
 - Final Energy|Residential|Gases|Electricity:
     definition: final energy consumption by the residential sector of synthetic e-fuel
@@ -1833,29 +1569,15 @@
     definition: final energy consumption by the residential sector of  synthetic or
       derived gases of fossil origin, excluding transmission/distribution losses
     unit: EJ/yr
-- Final Energy|Residential|Liquids|Biomass:
-    definition: final energy consumption by the residential sector of liquid biofuels
-    unit: EJ/yr
-- Final Energy|Residential|Liquids|Electricity:
-    definition: final energy consumption by the residential sector of liquid efuels
-      ("power-to-liquid")
-    unit: EJ/yr
 - Final Energy|Residential|Liquids|Fossil:
     definition: final energy consumption by the residential sector of liquids from
       fossil origin (conventional & unconventional petroleum, coal-to-liquids, gas-to-liquids)
-    unit: EJ/yr
-- Final Energy|Commercial|Solids|Biomass:
-    definition: final energy solid biomass consumption by the commercial sector
     unit: EJ/yr
 - Final Energy|Commercial|Solids|Biomass|Traditional:
     definition: final energy traditional biomass consumption by the commercial sector
     unit: EJ/yr
 - Final Energy|Commercial|Solids|Fossil:
     definition: final energy consumption of fossil solids by the commercial sector
-    unit: EJ/yr
-- Final Energy|Commercial|Gases|Biomass:
-    definition: final energy consumption by the commercial sector of biogas, excluding
-      transmission/distribution losses
     unit: EJ/yr
 - Final Energy|Commercial|Gases|Electricity:
     definition: final energy consumption by the commercial sector of synthetic e-fuel
@@ -1865,21 +1587,9 @@
     definition: final energy consumption by the commercial sector of  synthetic or
       derived gases of fossil origin, excluding transmission/distribution losses
     unit: EJ/yr
-- Final Energy|Commercial|Liquids|Biomass:
-    definition: final energy consumption by the commercial sector of liquid biofuels
-    unit: EJ/yr
-- Final Energy|Commercial|Liquids|Electricity:
-    definition: final energy consumption by the commercial sector of liquid efuels
-      ("power-to-liquid")
-    unit: EJ/yr
 - Final Energy|Commercial|Liquids|Fossil:
     definition: final energy consumption by the commercial sector of liquids from
       fossil origin (conventional & unconventional petroleum, coal-to-liquids, gas-to-liquids)
-    unit: EJ/yr
-- Final Energy|Residential and Commercial|Solids|Biomass:
-    definition: final energy consumption by the residential & commercial sector of
-      solid biomass (modern and traditional), excluding final energy consumption of
-      bioliquids which are reported in the liquids category
     unit: EJ/yr
 - Final Energy|Residential and Commercial|Solids|Biomass|Traditional:
     definition: final energy consumed in the residential & commercial sector of solid
@@ -1889,10 +1599,6 @@
     definition: final energy consumption of fossil solids by the residential & commercial
       sector
     unit: EJ/yr
-- Final Energy|Residential and Commercial|Gases|Biomass:
-    definition: final energy consumption by the residential & commercial sector of
-      biogas, excluding transmission/distribution losses
-    unit: EJ/yr
 - Final Energy|Residential and Commercial|Gases|Electricity:
     definition: final energy consumption by the residential & commercial sector of
       synthetic e-fuel gas ("power-to-gas"), excluding transmission/distribution losses
@@ -1901,21 +1607,10 @@
     definition: final energy consumption by the residential & commercial sector of  synthetic
       or derived gases of fossil origin, excluding transmission/distribution losses
     unit: EJ/yr
-- Final Energy|Residential and Commercial|Liquids|Biomass:
-    definition: final energy consumption by the residential & commercial sector of
-      liquid biofuels
-    unit: EJ/yr
-- Final Energy|Residential and Commercial|Liquids|Electricity:
-    definition: final energy consumption by the residential & commercial sector of
-      liquid efuels ("power-to-liquid")
-    unit: EJ/yr
 - Final Energy|Residential and Commercial|Liquids|Fossil:
     definition: final energy consumption by the residential & commercial sector of
       liquids from fossil origin (conventional & unconventional petroleum, coal-to-liquids,
       gas-to-liquids)
-    unit: EJ/yr
-- Final Energy|Transportation|Solids|Biomass:
-    definition: final energy consumption by the transportation sector of solid biomass
     unit: EJ/yr
 - Final Energy|Transportation|Solids|Fossil:
     definition: final energy consumption by the transportation sector of solid fossil
@@ -1925,19 +1620,9 @@
     definition: final energy consumption in the transportation sector by light duty
       vehicles
     unit: EJ/yr
-- Final Energy|Transportation|Liquids|Biomass:
-    definition: final energy consumption by the transportation sector of liquid biofuels
-    unit: EJ/yr
 - Final Energy|Transportation|Liquids|Fossil:
     definition: final energy consumption by the transportation sector of fossil based
       liquids (from conventional & unconventional oil, coal-to-liquids, gas-to-liquids)
-    unit: EJ/yr
-- Final Energy|Transportation|Liquids|Electricity:
-    definition: final energy consumption by the transportation sector of synthetic
-      liquid efuels
-    unit: EJ/yr
-- Final Energy|Transportation|Gases|Biomass:
-    definition: final energy consumption by the transportation sector of biogas
     unit: EJ/yr
 - Final Energy|Transportation|Gases|Fossil:
     definition: final energy consumption by the transportation sector of synthetic
@@ -1946,17 +1631,6 @@
 - Final Energy|Transportation|Gases|Electricity:
     definition: final energy consumption by the transportation sector of e-fuel gas
       ("power-to-gas")
-    unit: EJ/yr
-- Final Energy|Transportation|Hydrogen|Biomass:
-    definition: final energy consumption by the transportation sector of hydrogen
-      from biomass
-    unit: EJ/yr
-- Final Energy|Transportation|Hydrogen|Fossil:
-    definition: final energy consumption by the transportation sector of synthetic
-      or derived Hydrogen of fossil origin
-    unit: EJ/yr
-- Final Energy|Transportation|Hydrogen|Electricity:
-    definition: final energy consumption by the transportation sector of green hydrogen
     unit: EJ/yr
 - Final Energy|Transportation|LDV|Electricity:
     definition: final energy consumption of electricity (including on-site solar PV),
@@ -1979,36 +1653,12 @@
     definition: final energy consumption of fossil gases in the transportation sector
       by bus
     unit: EJ/yr
-- Final Energy|Transportation|Bus|Gases|Biomass:
-    definition: final energy consumption of biogas in the transportation sector by
-      bus
-    unit: EJ/yr
 - Final Energy|Transportation|Bus|Gases|Electricity:
     definition: final energy consumption of gaseous efuels in the transportation sector
       by bus
     unit: EJ/yr
 - Final Energy|Transportation|Bus|Liquids|Fossil:
     definition: final energy consumption of fossil Liquids in the transportation sector
-      by bus
-    unit: EJ/yr
-- Final Energy|Transportation|Bus|Liquids|Biomass:
-    definition: final energy consumption of bioliquids in the transportation sector
-      by bus
-    unit: EJ/yr
-- Final Energy|Transportation|Bus|Liquids|Electricity:
-    definition: final energy consumption of liquid efuels in the transportation sector
-      by bus
-    unit: EJ/yr
-- Final Energy|Transportation|Bus|Hydrogen|Fossil:
-    definition: final energy consumption of fossil Hydrogen in the transportation
-      sector by bus
-    unit: EJ/yr
-- Final Energy|Transportation|Bus|Hydrogen|Biomass:
-    definition: final energy consumption of hydrogen from biomass in the transportation
-      sector by bus
-    unit: EJ/yr
-- Final Energy|Transportation|Bus|Hydrogen|Electricity:
-    definition: final energy consumption of green hydrogen in the transportation sector
       by bus
     unit: EJ/yr
 - Final Energy|Transportation|LDV|Gases|Fossil:
@@ -2051,10 +1701,6 @@
     definition: final energy consumption of fossil gases in the transportation sector
       by Truck
     unit: EJ/yr
-- Final Energy|Transportation|Truck|Gases|Biomass:
-    definition: final energy consumption of biogas in the transportation sector by
-      Truck
-    unit: EJ/yr
 - Final Energy|Transportation|Truck|Gases|Electricity:
     definition: final energy consumption of gaseous efuels in the transportation sector
       by Truck
@@ -2063,33 +1709,9 @@
     definition: final energy consumption of fossil Liquids in the transportation sector
       by Truck
     unit: EJ/yr
-- Final Energy|Transportation|Truck|Liquids|Biomass:
-    definition: final energy consumption of bioliquids in the transportation sector
-      by Truck
-    unit: EJ/yr
-- Final Energy|Transportation|Truck|Liquids|Electricity:
-    definition: final energy consumption of liquid efuels in the transportation sector
-      by Truck
-    unit: EJ/yr
-- Final Energy|Transportation|Truck|Hydrogen|Fossil:
-    definition: final energy consumption of fossil Hydrogen in the transportation
-      sector by Truck
-    unit: EJ/yr
-- Final Energy|Transportation|Truck|Hydrogen|Biomass:
-    definition: final energy consumption of hydrogen from biomass in the transportation
-      sector by Truck
-    unit: EJ/yr
-- Final Energy|Transportation|Truck|Hydrogen|Electricity:
-    definition: final energy consumption of green hydrogen in the transportation sector
-      by Truck
-    unit: EJ/yr
 - Final Energy|Transportation|Rail|Gases|Fossil:
     definition: final energy consumption of fossil gases in the transportation sector
       by Rail
-    unit: EJ/yr
-- Final Energy|Transportation|Rail|Gases|Biomass:
-    definition: final energy consumption of biogas in the transportation sector by
-      Rail
     unit: EJ/yr
 - Final Energy|Transportation|Rail|Gases|Electricity:
     definition: final energy consumption of gaseous efuels in the transportation sector
@@ -2099,33 +1721,9 @@
     definition: final energy consumption of fossil Liquids in the transportation sector
       by Rail
     unit: EJ/yr
-- Final Energy|Transportation|Rail|Liquids|Biomass:
-    definition: final energy consumption of bioliquids in the transportation sector
-      by Rail
-    unit: EJ/yr
-- Final Energy|Transportation|Rail|Liquids|Electricity:
-    definition: final energy consumption of liquid efuels in the transportation sector
-      by Rail
-    unit: EJ/yr
-- Final Energy|Transportation|Rail|Hydrogen|Fossil:
-    definition: final energy consumption of fossil Hydrogen in the transportation
-      sector by Rail
-    unit: EJ/yr
-- Final Energy|Transportation|Rail|Hydrogen|Biomass:
-    definition: final energy consumption of hydrogen from biomass in the transportation
-      sector by Rail
-    unit: EJ/yr
-- Final Energy|Transportation|Rail|Hydrogen|Electricity:
-    definition: final energy consumption of green hydrogen in the transportation sector
-      by Rail
-    unit: EJ/yr
 - Final Energy|Transportation|Domestic Aviation|Gases|Fossil:
     definition: final energy consumption of fossil gases in the transportation sector
       by Domestic Aviation
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Aviation|Gases|Biomass:
-    definition: final energy consumption of biogas in the transportation sector by
-      Domestic Aviation
     unit: EJ/yr
 - Final Energy|Transportation|Domestic Aviation|Gases|Electricity:
     definition: final energy consumption of gaseous efuels in the transportation sector
@@ -2135,33 +1733,9 @@
     definition: final energy consumption of fossil Liquids in the transportation sector
       by Domestic Aviation
     unit: EJ/yr
-- Final Energy|Transportation|Domestic Aviation|Liquids|Biomass:
-    definition: final energy consumption of bioliquids in the transportation sector
-      by Domestic Aviation
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Aviation|Liquids|Electricity:
-    definition: final energy consumption of liquid efuels in the transportation sector
-      by Domestic Aviation
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Aviation|Hydrogen|Fossil:
-    definition: final energy consumption of fossil Hydrogen in the transportation
-      sector by Domestic Aviation
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Aviation|Hydrogen|Biomass:
-    definition: final energy consumption of hydrogen from biomass in the transportation
-      sector by Domestic Aviation
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Aviation|Hydrogen|Electricity:
-    definition: final energy consumption of green hydrogen in the transportation sector
-      by Domestic Aviation
-    unit: EJ/yr
 - Final Energy|Transportation|Domestic Shipping|Gases|Fossil:
     definition: final energy consumption of fossil gases in the transportation sector
       by Domestic Shipping
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Shipping|Gases|Biomass:
-    definition: final energy consumption of biogas in the transportation sector by
-      Domestic Shipping
     unit: EJ/yr
 - Final Energy|Transportation|Domestic Shipping|Gases|Electricity:
     definition: final energy consumption of gaseous efuels in the transportation sector
@@ -2169,26 +1743,6 @@
     unit: EJ/yr
 - Final Energy|Transportation|Domestic Shipping|Liquids|Fossil:
     definition: final energy consumption of fossil Liquids in the transportation sector
-      by Domestic Shipping
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Shipping|Liquids|Biomass:
-    definition: final energy consumption of bioliquids in the transportation sector
-      by Domestic Shipping
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Shipping|Liquids|Electricity:
-    definition: final energy consumption of liquid efuels in the transportation sector
-      by Domestic Shipping
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Shipping|Hydrogen|Fossil:
-    definition: final energy consumption of fossil Hydrogen in the transportation
-      sector by Domestic Shipping
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Shipping|Hydrogen|Biomass:
-    definition: final energy consumption of hydrogen from biomass in the transportation
-      sector by Domestic Shipping
-    unit: EJ/yr
-- Final Energy|Transportation|Domestic Shipping|Hydrogen|Electricity:
-    definition: final energy consumption of green hydrogen in the transportation sector
       by Domestic Shipping
     unit: EJ/yr
 - Final Energy|Transportation|Bus|ICE:
@@ -2304,30 +1858,14 @@
     definition: final energy consumption of gases in the transportation sector by
       Hybrid Bus
     unit: EJ/yr
-- Final Energy|Transportation|Passenger|Liquids|Biomass:
-    definition: final energy consumption by the passenger transportation sector of
-      liquid biofuels
-    unit: EJ/yr
 - Final Energy|Transportation|Passenger|Liquids|Fossil:
     definition: final energy consumption by the passenger transportation sector of
       fossil based liquids (from conventional & unconventional oil, coal-to-liquids,
       gas-to-liquids)
     unit: EJ/yr
-- Final Energy|Transportation|Passenger|Liquids|Electricity:
-    definition: final energy consumption by the passenger transportation sector of
-      synthetic liquid efuels
-    unit: EJ/yr
-- Final Energy|Transportation|Freight|Liquids|Biomass:
-    definition: final energy consumption by the freight transportation sector of liquid
-      biofuels
-    unit: EJ/yr
 - Final Energy|Transportation|Freight|Liquids|Fossil:
     definition: final energy consumption by the freight transportation sector of fossil
       based liquids (from conventional & unconventional oil, coal-to-liquids, gas-to-liquids)
-    unit: EJ/yr
-- Final Energy|Transportation|Freight|Liquids|Electricity:
-    definition: final energy consumption by the freight transportation sector of synthetic
-      liquid efuels
     unit: EJ/yr
 - Final Energy|Transportation|Passenger|Domestic Aviation:
     definition: final energy consumption by the Passenger transportation sector by
@@ -2546,10 +2084,6 @@
     definition: final energy consumption of green hydrogen in the Bunkers sector by
       International Shipping
     unit: EJ/yr
-- Final Energy|Other Sector|Gases|Biomass:
-    definition: final energy consumption by other sectors of biogas, excluding transmission/distribution
-      losses
-    unit: EJ/yr
 - Final Energy|Other Sector|Gases|Electricity:
     definition: final energy consumption by other sectors of synthetic e-fuel gas
       ("power-to-gas"), excluding transmission/distribution losses
@@ -2558,20 +2092,9 @@
     definition: final energy consumption by other sectors of  synthetic or derived
       gases of fossil origin, excluding transmission/distribution losses
     unit: EJ/yr
-- Final Energy|Other Sector|Liquids|Biomass:
-    definition: final energy consumption by other sectors of liquid biofuels
-    unit: EJ/yr
-- Final Energy|Other Sector|Liquids|Electricity:
-    definition: final energy consumption by other sectors of liquid efuels ("power-to-liquid")
-    unit: EJ/yr
 - Final Energy|Other Sector|Liquids|Fossil:
     definition: final energy consumption by other sectors of liquids from fossil origin
       (conventional & unconventional petroleum, coal-to-liquids, gas-to-liquids)
-    unit: EJ/yr
-- Final Energy|Other Sector|Solids|Biomass:
-    definition: final energy solid fuel consumption by other sectors of solid biomass
-      (modern and traditional), excluding final energy consumption of bioliquids which
-      are reported in the liquids category
     unit: EJ/yr
 - Final Energy|Other Sector|Solids|Biomass|Traditional:
     definition: final energy solid fuel consumed by other sectors than industry, transportation,
