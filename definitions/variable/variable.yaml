@@ -2679,31 +2679,10 @@
 - Food Energy Supply|Livestock:
     definition: calory food demand from livestock products
     unit: EJ/yr
-- Forestry Demand|Roundwood:
-    definition: forestry demand level for all roundwood (consumption, not production)
-    unit: million m3/yr
-- Forestry Production|Roundwood:
-    definition: forestry production level for all roundwood (primary production, not
-      consumption)
-    unit: million m3/yr
-- Forestry Demand|Roundwood|Industrial Roundwood:
-    definition: forestry demand level for industrial roundwood (consumption, not production)
-    unit: million m3/yr
-- Forestry Demand|Roundwood|Wood Fuel:
-    definition: forestry demand level for fuel wood roundwood (consumption, not production)
-    unit: million m3/yr
 - Forestry Production|Forest Residues:
     definition: forestry production level of forest residue output (primary production,
       not consumption)
     unit: million t DM/yr
-- Forestry Production|Roundwood|Industrial Roundwood:
-    definition: forestry production level for industrial roundwood (primary production,
-      not consumption)
-    unit: million m3/yr
-- Forestry Production|Roundwood|Wood Fuel:
-    definition: forestry production level for fuel wood roundwood (primary production,
-      not consumption)
-    unit: million m3/yr
 - Tariffs|Average:
     definition: Weighted trade tariff-average (regional and global indicator relevant)
     unit: '%'
@@ -3108,9 +3087,6 @@
     unit: million ha
 - Land Cover|Forest|Forestry|Harvested Area:
     definition: Forest area harvested
-    unit: million ha
-- Land Cover|Forest|Natural Forest:
-    definition: Undisturbed natural forests and modified natural forests
     unit: million ha
 - Land Cover|Other Arable Land:
     definition: other arable land that is unmanaged (e.g., grassland, savannah,
