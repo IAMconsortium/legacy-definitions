@@ -1,7 +1,3 @@
-- Agricultural Demand:
-    definition: total demand for food, non-food and feed products (crops and livestock)
-      and bioenergy crops (1st & 2nd generation)
-    unit: million t DM/yr
 - Agricultural Demand|Energy:
     definition: agricultural demand level for all bioenergy (consumption, not production)
     unit: million t DM/yr
@@ -13,10 +9,6 @@
     unit: million t DM/yr
 - Agricultural Demand|Non-Energy|Crops:
     definition: total demand for food, non-food and feed products (crops)
-    unit: million t DM/yr
-- Agricultural Production:
-    definition: total production of food, non-food and feed products (crops and livestock)
-      and bioenergy crops (1st & 2nd generation)
     unit: million t DM/yr
 - Agricultural Production|Energy:
     definition: total bioenergy-related agricultural production (including waste and
@@ -380,15 +372,9 @@
 - Carbon Capture|Usage|Other:
     definition: total carbon dioxide captured and used in other short-lived products
     unit: Mt CO2/yr
-- Carbon Removal:
-    definition: total carbon dioxide sequestered
-    unit: Mt CO2/yr
 - Carbon Removal|Geological Storage:
     definition: total non-fossil carbon dioxide sequestered through geological storage,
       i.e. BECCS + DACCS
-    unit: Mt CO2/yr
-- Carbon Removal|Enhanced Weathering:
-    definition: total carbon dioxide sequestered through enhanced weathering
     unit: Mt CO2/yr
 - Carbon Removal|Land Use:
     definition: total carbon dioxide sequestered through land-based sinks (e.g., afforestation,
@@ -574,17 +560,9 @@
     definition: CO2 emissions from carbon removal not reported in the other categories
       (i.e. without BECCS and land use), should be reported as negative values
     unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Commercial:
-    definition: Fossil CO2 emissions from fuel combustion in commercial and institutional
-      sectors (IPCC category 1A4a)
-    unit: Mt CO2/yr
 - Emissions|CO2|Energy|Demand|Industry|Steel:
     definition: Fossil CO2 emissions from fuel combustion in industry in the iron
       and steel sector
-    unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Residential:
-    definition: Fossil CO2 emissions from fuel combustion in residential (IPCC category
-      1A4b)
     unit: Mt CO2/yr
 - Emissions|CO2|Energy|Demand|Transportation|Freight:
     definition: Fossil CO2 emissions from fuel combustion for freight transportation
@@ -3117,24 +3095,6 @@
     definition: investment into water-related infrastructure (other than for thermal
       cooling and irrigation)
     unit: billion USD_2010/yr
-- Land Cover|Built-up Area:
-    definition: total built-up land associated with human settlement
-    unit: million ha
-- Land Cover|Forest:
-    definition: managed and unmanaged forest area
-    unit: million ha
-- Land Cover|Pasture:
-    definition: pasture land. All categories of pasture land - not only high quality
-      rangeland. Based on FAO definition of "permanent meadows and pastures"
-    unit: million ha
-- Land Cover|Cropland|Cereals:
-    definition: 'land dedicated to cereal crops: wheat, rice and coarse grains (maize,
-      corn, millet, sorghum, barley, oats, rye)'
-    unit: million ha
-- Land Cover|Cropland|Energy Crops:
-    definition: land dedicated to energy crops (e.g., switchgrass, miscanthus, fast-growing
-      wood species)
-    unit: million ha
 - Land Cover|Cropland|Energy Crops|Irrigated:
     definition: irrigated land dedicated to energy crops (e.g., switchgrass, miscanthus,
       fast-growing wood species)
@@ -3149,19 +3109,12 @@
 - Land Cover|Forest|Forestry|Harvested Area:
     definition: Forest area harvested
     unit: million ha
-- Land Cover|Forest|Managed:
-    definition: 'managed forests producing commercial wood supply for timber or energy
-      (note: woody energy crops reported under "energy crops")'
-    unit: million ha
 - Land Cover|Forest|Natural Forest:
     definition: Undisturbed natural forests and modified natural forests
     unit: million ha
 - Land Cover|Other Arable Land:
     definition: other arable land that is unmanaged (e.g., grassland, savannah,
       shrubland), excluding unmanaged forests that are arable
-    unit: million ha
-- Land Cover|Other Land:
-    definition: other land cover that does not fit into any other category
     unit: million ha
 - Price|Carbon|Net|Industry:
     definition: Net price of carbon applicable at national level for industry sector
