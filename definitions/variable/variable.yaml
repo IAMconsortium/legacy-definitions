@@ -482,9 +482,6 @@
 - Import:
     definition: total imports measured in monetary quantities.
     unit: billion USD_2010/yr
-- Capital Stock:
-    definition: Macroeconomic capital stock
-    unit: billion USD_2010/yr
 - Interest Rate|Real:
     definition: Real interest rate or return on capital that is relevant for energy
       system investments
@@ -2625,9 +2622,6 @@
     definition: "Developing countries' and least developed countries' share of global
       exports"
     unit: '%'
-- Revenue|government:
-    definition: government revenue
-    unit: billion USD_2010/yr
 - Subsidies|Energy|Fossil:
     definition: Fossil fuel subsidies
     unit: billion USD_2010/yr
@@ -3474,10 +3468,6 @@
     definition: import of industrial (non-energy) commodities measured in monetary
       units.
     unit: billion USD_2010/yr
-- Trade:
-    definition: net exports of all goods, at the global level these should add up
-      to the trade losses only
-    unit: billion USD_2010/yr
 - Export|Industry|Iron and Steel:
     definition: Export of iron & steel measured in monetary units
     unit: billion USD_2010/yr
@@ -4312,12 +4302,6 @@
 - Emissions|GHG|Allowance Allocation:
     definition: allocation of GHG emission allowances to a region
     unit: Mt CO2-equiv/yr
-- Trade|Emissions Allowances|Volume:
-    definition: physical trade volume in GHG emission allowances
-    unit: Mt CO2-equiv/yr
-- Trade|Emissions Allowances|Value:
-    definition: value of trade in GHG emission allowances
-    unit: billion USD_2010/yr
 - Production|Iron and Steel|Iron Ore|Volume:
     definition: production of iron ore (raw material used for the production of primary
       steel and iron)
