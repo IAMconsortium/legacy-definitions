@@ -26,26 +26,6 @@
 - Fertilizer Use|Phosphorus:
     definition: total phosphorus fertilizer use
     unit: Tg P/yr
-- Price|Agriculture|Corn|Index:
-    definition: price index of corn
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy|Crops
-- Price|Agriculture|Non-Energy Crops and Livestock|Index:
-    definition: weighted average price index of non-energy crops and livestock products
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy
-- Price|Agriculture|Non-Energy Crops|Index:
-    definition: weighted average price index of non-energy crops
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy|Crops
-- Price|Agriculture|Soybean|Index:
-    definition: price index of soybean
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy|Crops
-- Price|Agriculture|Wheat|Index:
-    definition: price index of wheat
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy|Crops
 - Fertilizer|Nitrogen|Intensity:
     definition: nitrogen fertilizer inputs in tonnes per hectare per year (or similar)
     unit: t N/ha/yr
