@@ -2698,32 +2698,6 @@
 - Population|Road Access:
     definition: population living within 2 km of an all-season road
     unit: million
-- Investment:
-    definition: Total economy wide investments (macroecomic capital stock, energy
-      system, R&D, ...)
-    unit: billion USD_2010/yr
-- Investment|Energy Supply:
-    definition: Investments into the energy supply system
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Electricity:
-    definition: Investments into electricity generation and supply (including electricity
-      storage and transmission & distribution)
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Extraction|Fossil:
-    definition: investments for all types of fossil extraction
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Extraction|Coal:
-    definition: investments for extraction and conversion of coal. These should include
-      mining, shipping and ports
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Extraction|Gas:
-    definition: investments for extraction and conversion of natural gas. These should
-      include upstream, LNG chain and transmission and distribution
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Extraction|Oil:
-    definition: investments for extraction and conversion of oil. These should include
-      upstream, transport and refining
-    unit: billion USD_2010/yr
 - Investment|Energy Supply|Extraction|Bioenergy:
     definition: investments for extraction and production of bioenergy
     unit: billion USD_2010/yr
@@ -2885,11 +2859,6 @@
       For plants equipped with CCS, the investment in the capturing equipment should
       be included but not the one on transport and storage.
     unit: billion USD_2010/yr
-- Investment|Energy Supply|Liquids:
-    definition: investments for the production of liquid fuels. For plants equipped
-      with CCS, the investment in the capturing equipment should be included but not
-      the one on transport and storage.
-    unit: billion USD_2010/yr
 - Investment|Energy Supply|Liquids|Oil:
     definition: investments for the production of fossil fuels from oil refineries
       For plants equipped with CCS, the investment in the capturing equipment should
@@ -2912,19 +2881,6 @@
     unit: billion USD_2010/yr
 - Investment|Energy Supply|Other:
     definition: investments in other types of energy conversion facilities
-    unit: billion USD_2010/yr
-- Investment|Energy Efficiency:
-    definition: investments into the efficiency-increasing components of energy demand
-      technologies
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Heat:
-    definition: investments in heat generation facilities
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Hydrogen:
-    definition: investments for the production of hydrogen from all energy sources
-      (fossil, biomass, electrolysis). For plants equipped with CCS, the investment
-      in the capturing equipment should be included but not the one on transport and
-      storage.
     unit: billion USD_2010/yr
 - Investment|RnD|Energy Supply:
     definition: Investments into research and development, energy supply sector
@@ -4879,9 +4835,6 @@
     unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Desalination:
     definition: Investment into water desalination infrastructure
-    unit: billion USD_2010/yr
-- Investment|Agriculture:
-    definition: Investment into agriculture activity
     unit: billion USD_2010/yr
 - Investment|Forestry:
     definition: Investment into growing forests
