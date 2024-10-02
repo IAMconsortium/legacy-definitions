@@ -2501,46 +2501,6 @@
 - Energy Service|Transportation|Passenger|Road|Bus:
     definition: energy service demand for passenger transport on roads (buses)
     unit: bn pkm/yr
-- Trade|Primary Energy|Biomass|Volume:
-    definition: net exports of solid, unprocessed biomass, at the global level these
-      should add up to the trade losses only
-    unit: EJ/yr
-- Trade|Primary Energy|Coal|Volume:
-    definition: net exports of coal, at the global level these should add up to the
-      trade losses only
-    unit: EJ/yr
-- Trade|Primary Energy|Gas|Volume:
-    definition: net exports of natural gas, at the global level these should add up
-      to the trade losses only
-    unit: EJ/yr
-- Trade|Primary Energy|Oil|Volume:
-    definition: net exports of crude oil, at the global level these should add up
-      to the trade losses only
-    unit: EJ/yr
-- Trade|Primary Energy|Biomass|Value:
-    definition: value of net exports of solid, unprocessed biomass, at the global
-      level these should add up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Primary Energy|Coal|Value:
-    definition: value of net exports of coal, at the global level these should add
-      up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Primary Energy|Gas|Value:
-    definition: value of net exports of natural gas, at the global level these should
-      add up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Primary Energy|Oil|Value:
-    definition: value of net exports of crude oil, at the global level these should
-      add up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Secondary Energy|Electricity|Volume:
-    definition: net exports of electricity, at the global level these should add up
-      to the trade losses only
-    unit: EJ/yr
-- Trade|Secondary Energy|Hydrogen|Volume:
-    definition: net exports of hydrogen, at the global level these should add up to
-      the trade losses only
-    unit: EJ/yr
 - Trade|Secondary Energy|Liquids|Biomass|Volume:
     definition: net exports of liquid biofuels, at the global level these should add
       up to the trade losses only (for those models that are able to split solid and
@@ -2559,14 +2519,6 @@
       and unconventional sources, at the global level these should add up to the trade
       losses only
     unit: EJ/yr
-- Trade|Secondary Energy|Electricity|Value:
-    definition: value of net exports of electricity, at the global level these should
-      add up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Secondary Energy|Hydrogen|Value:
-    definition: value of net exports of hydrogen, at the global level these should
-      add up to the trade losses only
-    unit: billion USD_2010/yr
 - Trade|Secondary Energy|Liquids|Biomass|Value:
     definition: value of net exports of liquid biofuels, at the global level these
       should add up to the trade losses only (for those models that are able to split
