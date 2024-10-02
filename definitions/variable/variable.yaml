@@ -26,26 +26,6 @@
 - Fertilizer Use|Phosphorus:
     definition: total phosphorus fertilizer use
     unit: Tg P/yr
-- Price|Agriculture|Corn|Index:
-    definition: price index of corn
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy|Crops
-- Price|Agriculture|Non-Energy Crops and Livestock|Index:
-    definition: weighted average price index of non-energy crops and livestock products
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy
-- Price|Agriculture|Non-Energy Crops|Index:
-    definition: weighted average price index of non-energy crops
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy|Crops
-- Price|Agriculture|Soybean|Index:
-    definition: price index of soybean
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy|Crops
-- Price|Agriculture|Wheat|Index:
-    definition: price index of wheat
-    unit: Index (2020 = 1)
-    weight: Agricultural Production|Non-Energy|Crops
 - Fertilizer|Nitrogen|Intensity:
     definition: nitrogen fertilizer inputs in tonnes per hectare per year (or similar)
     unit: t N/ha/yr
@@ -501,9 +481,6 @@
     unit: billion USD_2010/yr
 - Import:
     definition: total imports measured in monetary quantities.
-    unit: billion USD_2010/yr
-- Capital Stock:
-    definition: Macroeconomic capital stock
     unit: billion USD_2010/yr
 - Interest Rate|Real:
     definition: Real interest rate or return on capital that is relevant for energy
@@ -2521,46 +2498,6 @@
 - Energy Service|Transportation|Passenger|Road|Bus:
     definition: energy service demand for passenger transport on roads (buses)
     unit: bn pkm/yr
-- Trade|Primary Energy|Biomass|Volume:
-    definition: net exports of solid, unprocessed biomass, at the global level these
-      should add up to the trade losses only
-    unit: EJ/yr
-- Trade|Primary Energy|Coal|Volume:
-    definition: net exports of coal, at the global level these should add up to the
-      trade losses only
-    unit: EJ/yr
-- Trade|Primary Energy|Gas|Volume:
-    definition: net exports of natural gas, at the global level these should add up
-      to the trade losses only
-    unit: EJ/yr
-- Trade|Primary Energy|Oil|Volume:
-    definition: net exports of crude oil, at the global level these should add up
-      to the trade losses only
-    unit: EJ/yr
-- Trade|Primary Energy|Biomass|Value:
-    definition: value of net exports of solid, unprocessed biomass, at the global
-      level these should add up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Primary Energy|Coal|Value:
-    definition: value of net exports of coal, at the global level these should add
-      up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Primary Energy|Gas|Value:
-    definition: value of net exports of natural gas, at the global level these should
-      add up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Primary Energy|Oil|Value:
-    definition: value of net exports of crude oil, at the global level these should
-      add up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Secondary Energy|Electricity|Volume:
-    definition: net exports of electricity, at the global level these should add up
-      to the trade losses only
-    unit: EJ/yr
-- Trade|Secondary Energy|Hydrogen|Volume:
-    definition: net exports of hydrogen, at the global level these should add up to
-      the trade losses only
-    unit: EJ/yr
 - Trade|Secondary Energy|Liquids|Biomass|Volume:
     definition: net exports of liquid biofuels, at the global level these should add
       up to the trade losses only (for those models that are able to split solid and
@@ -2579,14 +2516,6 @@
       and unconventional sources, at the global level these should add up to the trade
       losses only
     unit: EJ/yr
-- Trade|Secondary Energy|Electricity|Value:
-    definition: value of net exports of electricity, at the global level these should
-      add up to the trade losses only
-    unit: billion USD_2010/yr
-- Trade|Secondary Energy|Hydrogen|Value:
-    definition: value of net exports of hydrogen, at the global level these should
-      add up to the trade losses only
-    unit: billion USD_2010/yr
 - Trade|Secondary Energy|Liquids|Biomass|Value:
     definition: value of net exports of liquid biofuels, at the global level these
       should add up to the trade losses only (for those models that are able to split
@@ -2693,9 +2622,6 @@
     definition: "Developing countries' and least developed countries' share of global
       exports"
     unit: '%'
-- Revenue|government:
-    definition: government revenue
-    unit: billion USD_2010/yr
 - Subsidies|Energy|Fossil:
     definition: Fossil fuel subsidies
     unit: billion USD_2010/yr
@@ -2766,32 +2692,6 @@
 - Population|Road Access:
     definition: population living within 2 km of an all-season road
     unit: million
-- Investment:
-    definition: Total economy wide investments (macroecomic capital stock, energy
-      system, R&D, ...)
-    unit: billion USD_2010/yr
-- Investment|Energy Supply:
-    definition: Investments into the energy supply system
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Electricity:
-    definition: Investments into electricity generation and supply (including electricity
-      storage and transmission & distribution)
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Extraction|Fossil:
-    definition: investments for all types of fossil extraction
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Extraction|Coal:
-    definition: investments for extraction and conversion of coal. These should include
-      mining, shipping and ports
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Extraction|Gas:
-    definition: investments for extraction and conversion of natural gas. These should
-      include upstream, LNG chain and transmission and distribution
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Extraction|Oil:
-    definition: investments for extraction and conversion of oil. These should include
-      upstream, transport and refining
-    unit: billion USD_2010/yr
 - Investment|Energy Supply|Extraction|Bioenergy:
     definition: investments for extraction and production of bioenergy
     unit: billion USD_2010/yr
@@ -2953,11 +2853,6 @@
       For plants equipped with CCS, the investment in the capturing equipment should
       be included but not the one on transport and storage.
     unit: billion USD_2010/yr
-- Investment|Energy Supply|Liquids:
-    definition: investments for the production of liquid fuels. For plants equipped
-      with CCS, the investment in the capturing equipment should be included but not
-      the one on transport and storage.
-    unit: billion USD_2010/yr
 - Investment|Energy Supply|Liquids|Oil:
     definition: investments for the production of fossil fuels from oil refineries
       For plants equipped with CCS, the investment in the capturing equipment should
@@ -2980,19 +2875,6 @@
     unit: billion USD_2010/yr
 - Investment|Energy Supply|Other:
     definition: investments in other types of energy conversion facilities
-    unit: billion USD_2010/yr
-- Investment|Energy Efficiency:
-    definition: investments into the efficiency-increasing components of energy demand
-      technologies
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Heat:
-    definition: investments in heat generation facilities
-    unit: billion USD_2010/yr
-- Investment|Energy Supply|Hydrogen:
-    definition: investments for the production of hydrogen from all energy sources
-      (fossil, biomass, electrolysis). For plants equipped with CCS, the investment
-      in the capturing equipment should be included but not the one on transport and
-      storage.
     unit: billion USD_2010/yr
 - Investment|RnD|Energy Supply:
     definition: Investments into research and development, energy supply sector
@@ -3585,10 +3467,6 @@
 - Import|Industry:
     definition: import of industrial (non-energy) commodities measured in monetary
       units.
-    unit: billion USD_2010/yr
-- Trade:
-    definition: net exports of all goods, at the global level these should add up
-      to the trade losses only
     unit: billion USD_2010/yr
 - Export|Industry|Iron and Steel:
     definition: Export of iron & steel measured in monetary units
@@ -4424,12 +4302,6 @@
 - Emissions|GHG|Allowance Allocation:
     definition: allocation of GHG emission allowances to a region
     unit: Mt CO2-equiv/yr
-- Trade|Emissions Allowances|Volume:
-    definition: physical trade volume in GHG emission allowances
-    unit: Mt CO2-equiv/yr
-- Trade|Emissions Allowances|Value:
-    definition: value of trade in GHG emission allowances
-    unit: billion USD_2010/yr
 - Production|Iron and Steel|Iron Ore|Volume:
     definition: production of iron ore (raw material used for the production of primary
       steel and iron)
@@ -4947,9 +4819,6 @@
     unit: billion USD_2010/yr
 - Investment|Infrastructure|Water|Desalination:
     definition: Investment into water desalination infrastructure
-    unit: billion USD_2010/yr
-- Investment|Agriculture:
-    definition: Investment into agriculture activity
     unit: billion USD_2010/yr
 - Investment|Forestry:
     definition: Investment into growing forests
