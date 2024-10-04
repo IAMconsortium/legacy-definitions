@@ -4281,32 +4281,6 @@
 - Emissions|GHG|Allowance Allocation:
     definition: allocation of GHG emission allowances to a region
     unit: Mt CO2-equiv/yr
-- Production|Iron and Steel|Iron Ore|Volume:
-    definition: production of iron ore (raw material used for the production of primary
-      steel and iron)
-    unit: Mt/yr
-- Production|Iron and Steel|Pig Iron|Volume:
-    definition: production of pig iron (intermediate product for the production of
-      primary steel)
-    unit: Mt/yr
-- Production|Iron and Steel|Sponge Iron|Volume:
-    definition: production of sponge iron (intermediate product for the production
-      of primary steel)
-    unit: Mt/yr
-- Production|Iron and Steel|Primary Steel|Volume:
-    definition: Production of primary / virgin steel
-    unit: Mt/yr
-- Production|Iron and Steel|Secondary Steel|Volume:
-    definition: Production of secondary steel from recycling of scrap
-    unit: Mt/yr
-- Production|Non-Ferrous Metals|Bauxite|Volume:
-    definition: production of bauxite (raw material used for the production of primary
-      aluminum)
-    unit: Mt/yr
-- Production|Non-Ferrous Metals|Alumina|Volume:
-    definition: production of alumina (intermediate product for the production of
-      primary aluminum)
-    unit: Mt/yr
 - Production|Non-Ferrous Metals|Aluminium|Volume:
     definition: production of aluminum (inlcudes primary and secondary aluminium)
     unit: Mt/yr
@@ -4328,25 +4302,12 @@
     definition: production of high value chemicals (intermediate material for the
       production of plastics, high value chemicals include ethylene)
     unit: Mt/yr
-- Production|Chemicals|Plastics|Volume:
-    definition: production of plastics
-    unit: Mt/yr
 - Production|Chemicals|Plastics|Primary Plastics|Volume:
     definition: production of primary plastics
     unit: Mt/yr
 - Production|Chemicals|Plastics|Secondary Plastics|Volume:
     definition: production of secondary plastics, i.e. plastics obtained from recycling
       of plastics
-    unit: Mt/yr
-- Production|Non-Metallic Minerals|Limestone|Volume:
-    definition: production of limestone (raw material for the production of cement)
-    unit: Mt/yr
-- Production|Non-Metallic Minerals|Clinker|Volume:
-    definition: production of clinker (intermediate material for the production of
-      cement)
-    unit: Mt/yr
-- Production|Non-Metallic Minerals|Cement|Volume:
-    definition: production of cement
     unit: Mt/yr
 - Production|Non-Metallic Minerals|Value:
     definition: Production of non-metallic minerals
