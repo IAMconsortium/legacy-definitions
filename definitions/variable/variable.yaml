@@ -4281,15 +4281,6 @@
 - Emissions|GHG|Allowance Allocation:
     definition: allocation of GHG emission allowances to a region
     unit: Mt CO2-equiv/yr
-- Production|Non-Ferrous Metals|Aluminium|Volume:
-    definition: production of aluminum (inlcudes primary and secondary aluminium)
-    unit: Mt/yr
-- Production|Non-Ferrous Metals|Aluminium|Primary|Volume:
-    definition: production of primary aluminum
-    unit: Mt/yr
-- Production|Non-Ferrous Metals|Aluminium|Secondary|Volume:
-    definition: production of secondary aluminum
-    unit: Mt/yr
 - Production|Chemicals|Naphtha|Volume:
     definition: production of naphtha (raw material for the production of high value
       chemicals, e.g. olefins)
@@ -4297,17 +4288,6 @@
 - Production|Chemicals|Ethane |Volume:
     definition: production of ethane (raw material for the production of high value
       chemicals, e.g. olefins)
-    unit: Mt/yr
-- Production|Chemicals|High Value Chemicals|Volume:
-    definition: production of high value chemicals (intermediate material for the
-      production of plastics, high value chemicals include ethylene)
-    unit: Mt/yr
-- Production|Chemicals|Plastics|Primary Plastics|Volume:
-    definition: production of primary plastics
-    unit: Mt/yr
-- Production|Chemicals|Plastics|Secondary Plastics|Volume:
-    definition: production of secondary plastics, i.e. plastics obtained from recycling
-      of plastics
     unit: Mt/yr
 - Production|Non-Metallic Minerals|Value:
     definition: Production of non-metallic minerals
