@@ -106,11 +106,6 @@
 - Fertilizer|Potassium|Intensity:
     definition: potassium fertilizer inputs in tonnes per hectare per year (or similar)
     unit: t K20/ha/yr
-- Carbon Capture:
-    definition: total carbon dioxide emissions captured, i.e. captured CO2 stream
-      from bioenergy use, fossil fuel use, industrial processes, and direct air capture;
-      should be reported as positive numbers
-    unit: Mt CO2/yr
 - Carbon Capture|Biomass:
     definition: total carbon dioxide emissions captured  from bioenergy use, should
       be reported as positive numbers
