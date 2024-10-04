@@ -2659,22 +2659,6 @@
 - Material Consumption|Domestic:
     definition: Domestic material consumption
     unit: Mt/year
-- Production|Non-Metallic Minerals|Volume:
-    definition: production of non-metallic minerals, which include cement, ceramic,
-      glass, lime
-    unit: Mt/yr
-- Production|Chemicals|Volume:
-    definition: production of chemicals (e.g. sulfuric acid)
-    unit: Mt/yr
-- Production|Non-Ferrous Metals|Volume:
-    definition: production of non-ferrous metals (e.g. copper, lead, aluminum)
-    unit: Mt/yr
-- Production|Pulp and Paper|Volume:
-    definition: production of pulp and paper
-    unit: Mt/yr
-- Production|Iron and Steel|Volume:
-    definition: production of steel
-    unit: Mt/yr
 - Expenditure|RnD:
     definition: expenditure on research and development
     unit: billion USD_2010/yr
