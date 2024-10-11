@@ -2432,15 +2432,6 @@
     definition: secondary energy consumption of hydrogen for the autoproduction of
       liquids, incl. hydrocarbon inputs for olefine production
     unit: EJ/yr
-- Energy Service|Commercial|Floor Space:
-    definition: energy service demand for conditioned floor space in commercial buildings
-    unit: bn m2
-- Energy Service|Residential and Commercial|Floor Space:
-    definition: energy service demand for conditioned floor space in buildings
-    unit: bn m2
-- Energy Service|Residential|Floor Space:
-    definition: energy service demand for conditioned floor space in residential buildings
-    unit: bn m2
 - Energy Service|Transportation|Freight|Domestic Aviation:
     definition: energy service demand for freight transport on domestic aircrafts
     unit: bn tkm/yr
