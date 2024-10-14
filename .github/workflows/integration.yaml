@@ -25,8 +25,7 @@ jobs:
 
     - name: Install requirements
       run: |
-        pip install nomenclature-iamc pytest
-        pip install pysquirrel>=1.1
+        pip install nomenclature-iamc>=0.19.1 pytest
         pip list
 
     - name: Run the integration test
