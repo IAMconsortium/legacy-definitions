@@ -24,7 +24,9 @@ jobs:
         python-version: 3.11
 
     - name: Install requirements
-      run: pip install nomenclature-iamc pytest
+      run: |
+        pip install nomenclature-iamc>=0.19.1 pytest
+        pip list
 
     - name: Run the integration test
       run: pytest tests/test_integration.py --rootdir='tests'
