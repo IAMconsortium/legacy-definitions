@@ -24,7 +24,9 @@ jobs:
         python-version: 3.11
 
     - name: Install requirements
-      run: pip install nomenclature-iamc pytest pysquirrel>=1.1
+      run: |
+        pip install nomenclature-iamc pytest pysquirrel>=1.1
+        pip list
 
     - name: Run the integration test
       run: pytest tests/test_integration.py --rootdir='tests'
