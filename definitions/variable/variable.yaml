@@ -3042,27 +3042,6 @@
 - Import|Other:
     definition: import of other commodities measured in monetary units
     unit: billion USD_2010/yr
-- Water Consumption:
-    definition: total water consumption
-    unit: km3/yr
-- Water Consumption|Industrial Water:
-    definition: water consumption for the industrial sector
-    unit: km3/yr
-- Water Consumption|Municipal Water:
-    definition: water consumption for the municipal sector (e.g., houses, offices,
-      municipal irrigation)
-    unit: km3/yr
-- Water Withdrawal:
-    definition: total water withdrawal
-    unit: km3/yr
-- Water Withdrawal|Industrial Water:
-    definition: water withdrawals for the industrial sector (manufacturing sector
-      if also reporting energy sector water use)
-    unit: km3/yr
-- Water Withdrawal|Municipal Water:
-    definition: water withdrawals for the municial sector (e.g., houses, offices,
-      municipal irrigation)
-    unit: km3/yr
 - Freshwater|Environmental Flow:
     definition: water allocated to environmental flow in rivers and groundwater systems
     unit: km3/yr
@@ -3100,18 +3079,6 @@
     unit: km3
 - Water Transfer:
     definition: water imported/exported using conveyance infrastructure
-    unit: km3/yr
-- Water Consumption|Irrigation:
-    definition: water consumption for the irrigation
-    unit: km3/yr
-- Water Consumption|Livestock:
-    definition: water consumption for livestock
-    unit: km3/yr
-- Water Withdrawal|Irrigation:
-    definition: water withdrawal for irrigation
-    unit: km3/yr
-- Water Withdrawal|Livestock:
-    definition: water withdrawals for livestock
     unit: km3/yr
 - Improvement|Efficiency|Irrigation:
     definition: improvements in irrigation water use efficiency per year
