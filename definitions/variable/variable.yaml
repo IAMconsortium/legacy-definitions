@@ -20,18 +20,6 @@
 - Agricultural Production|Non-Energy:
     definition: total production for food, non-food and feed products (crops and livestock)
     unit: million t DM/yr
-- Fertilizer Use|Nitrogen:
-    definition: total nitrogen fertilizer use
-    unit: Tg N/yr
-- Fertilizer Use|Phosphorus:
-    definition: total phosphorus fertilizer use
-    unit: Tg P/yr
-- Fertilizer|Nitrogen|Intensity:
-    definition: nitrogen fertilizer inputs in tonnes per hectare per year (or similar)
-    unit: t N/ha/yr
-- Fertilizer|Phosphorus|Intensity:
-    definition: phosphorus fertilizer inputs in tonnes per hectare per year (or similar)
-    unit: t P/ha/yr
 - Agricultural Demand|Energy|Crops|1st generation:
     definition: demand for modern primary 1st generation energy crops
     unit: million t DM/yr
@@ -346,57 +334,6 @@
     unit: Mt CO2/yr
 - Carbon Capture|Usage|Other:
     definition: total carbon dioxide captured and used in other short-lived products
-    unit: Mt CO2/yr
-- Carbon Removal|Geological Storage:
-    definition: total non-fossil carbon dioxide sequestered through geological storage,
-      i.e. BECCS + DACCS
-    unit: Mt CO2/yr
-- Carbon Removal|Land Use:
-    definition: total carbon dioxide sequestered through land-based sinks (e.g., afforestation,
-      soil carbon enhancement, biochar)
-    unit: Mt CO2/yr
-- Carbon Removal|Land Use|Afforestation:
-    definition: total carbon dioxide sequestered through afforestation
-    unit: Mt CO2/yr
-- Carbon Removal|Land Use|Biochar:
-    definition: total carbon dioxide sequestered through biochar
-    unit: Mt CO2/yr
-- Carbon Removal|Land Use|Soil Carbon Management:
-    definition: total carbon dioxide sequestered through soil carbon management techniques
-    unit: Mt CO2/yr
-- Carbon Removal|Land Use|Agroforestry:
-    definition: total carbon dioxide sequestered through agroforestry
-    unit: Mt CO2/yr
-- Carbon Removal|Land Use|Other:
-    definition: total carbon dioxide sequestered through other land use methods
-    unit: Mt CO2/yr
-- Carbon Removal|Ocean:
-    definition: total carbon dioxide sequestered through ocean sinks
-    unit: Mt CO2/yr
-- Carbon Removal|Ocean|Alkalinization:
-    definition: total carbon dioxide sequestered through ocean alkalinization
-    unit: Mt CO2/yr
-- Carbon Removal|Ocean|Other:
-    definition: total carbon dioxide sequestered through other ocean methods
-    unit: Mt CO2/yr
-- Carbon Removal|Materials:
-    definition: total non-fossil carbon dioxide sequestered through long-lived materials
-    unit: Mt CO2/yr
-- Carbon Removal|Materials|Timber:
-    definition: total non-fossil carbon dioxide sequestered through long-lived wood
-      products
-    unit: Mt CO2/yr
-- Carbon Removal|Materials|Plastics:
-    definition: total non-fossil carbon dioxide sequestered through both short- and
-      long-lived plastic products. Emissions from incineration of plastic should be
-      reported under Emissions|CO2|Waste|Biomass
-    unit: Mt CO2/yr
-- Carbon Removal|Materials|Other:
-    definition: total non-fossil carbon dioxide sequestered through other long-lived
-      materials
-    unit: Mt CO2/yr
-- Carbon Removal|Other:
-    definition: total non-fossil carbon dioxide sequestered through other techniques
     unit: Mt CO2/yr
 - Forcing:
     definition: radiative forcing from all greenhouse gases and forcing agents, including
@@ -821,70 +758,6 @@
 - Cumulative Capacity|Electricity|Wind|Onshore:
     definition: Cumulative installed capacity (since 2005) of onshore wind power plants.
     unit: GW
-- Capacity Additions|Electricity|Biomass|w/ CCS:
-    definition: Capacity additions of biomass power plants with CCS (yearly average
-      additions between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Biomass|w/o CCS:
-    definition: Capacity additions of biomass power plants without CCS (yearly average
-      additions between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Coal|w/ CCS:
-    definition: Capacity additions of coal power plants with CCS (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Coal|w/o CCS:
-    definition: Capacity additions of coal power plants without CCS (yearly average
-      additions between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Gas|w/ CCS:
-    definition: Capacity additions of gas power plants with CCS (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Gas|w/o CCS:
-    definition: Capacity additions of gas power plants without CCS (yearly average
-      additions between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Hydro:
-    definition: Capacity additions of hydropower plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Hydrogen:
-    definition: Capacity additions of hydrogen power plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Nuclear:
-    definition: Capacity additions of nuclear power plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Oil|w/ CCS:
-    definition: Capacity additions of oil power plants with CCS (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Oil|w/o CCS:
-    definition: Capacity additions of oil power plants without CCS (yearly average
-      additions between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Solar|CSP:
-    definition: Capacity additions of concentrated solar power plants (yearly average
-      additions between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Solar|PV:
-    definition: Capacity additions of solar PV (yearly average additions between previos
-      and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Wind:
-    definition: Capacity additions of wind power plants (onshore and offshore) (yearly
-      average additions between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Wind|Offshore:
-    definition: Capacity additions of wind power plants (ooffshore) (yearly average
-      additions between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Wind|Onshore:
-    definition: Capacity additions of wind power plants (onshore) (yearly average
-      additions between previos and current model time step)
-    unit: GW/yr
 - Cumulative Capacity|Electricity|Biomass:
     definition: Cumulative installed capacity (since 2005) of biomass power plants.
     unit: GW
@@ -999,53 +872,12 @@
 - Cumulative Capacity|Liquids|Oil:
     definition: Cumulative installed capacity (since 2005) of oil refining plants.
     unit: GW
-- Capacity Additions|Electricity|Biomass:
-    definition: Capacity additions of all biomass power plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Coal:
-    definition: Capacity additions of all coal power plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Gas:
-    definition: Capacity additions of all gas power plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Geothermal:
-    definition: Capacity additions of geothermal power plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Oil:
-    definition: Capacity additions of all oil power plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Solar:
-    definition: Capacity additions of solar power plants (yearly average additions
-      between previos and current model time step)
-    unit: GW/yr
-- Capacity Additions|Electricity|Storage Capacity:
-    definition: Capacity additions of electricity storage capacity (yearly average
-      additions between previos and current model time step)
-    unit: GWh/yr
-- Capacity Additions|Electricity|Transmissions Grid:
-    definition: Capacity additions of electricity storage (yearly average additions
-      between previos and current model time step)
-    unit: GWkm/yr
 - Capacity|Electricity|Storage Capacity:
     definition: Total installed capacity of operating electricity storage
     unit: GWh
 - Capacity|Electricity|Transmissions Grid:
     definition: Total installed capacity of operating transmission grid
     unit: GWkm
-- Final Energy|Solids|Biomass|Traditional:
-    definition: final energy solid fuel consumption of traditional biomass
-    unit: EJ/yr
-- Final Energy|Solids|Fossil:
-    definition: final energy consumption of fossil solids
-    unit: EJ/yr
-- Final Energy|Industry|Solids|Fossil:
-    definition: final energy consumption of fossil solids by the industrial sector
-    unit: EJ/yr
 - Final Energy|Industry|Non-Metallic Minerals|Solar:
     definition: Final energy consumption of solar thermal heat by the non-metallic
       minerals sector
@@ -1112,31 +944,6 @@
 - Final Energy|Industry|Non-Ferrous Metals|Waste:
     definition: Final energy consumption of non-renewable waste by the non-ferrous
       metals sector
-    unit: EJ/yr
-- Final Energy|Residential|Solids|Biomass|Traditional:
-    definition: final energy solid traditional biomass consumption by the residential
-      sector
-    unit: EJ/yr
-- Final Energy|Residential|Solids|Fossil:
-    definition: final energy consumption of fossil solids by the residential sector
-    unit: EJ/yr
-- Final Energy|Commercial|Solids|Biomass|Traditional:
-    definition: final energy traditional biomass consumption by the commercial sector
-    unit: EJ/yr
-- Final Energy|Commercial|Solids|Fossil:
-    definition: final energy consumption of fossil solids by the commercial sector
-    unit: EJ/yr
-- Final Energy|Residential and Commercial|Solids|Biomass|Traditional:
-    definition: final energy consumed in the residential & commercial sector of solid
-      biomass (traditional)
-    unit: EJ/yr
-- Final Energy|Residential and Commercial|Solids|Fossil:
-    definition: final energy consumption of fossil solids by the residential & commercial
-      sector
-    unit: EJ/yr
-- Final Energy|Transportation|Solids|Fossil:
-    definition: final energy consumption by the transportation sector of solid fossil
-      fuels
     unit: EJ/yr
 - Final Energy|Transportation|LDV:
     definition: final energy consumption in the transportation sector by light duty
@@ -1524,13 +1331,6 @@
 - Final Energy|Bunkers|International Shipping|Hydrogen|Electricity:
     definition: final energy consumption of green hydrogen in the Bunkers sector by
       International Shipping
-    unit: EJ/yr
-- Final Energy|Other Sector|Solids|Biomass|Traditional:
-    definition: final energy solid fuel consumed by other sectors than industry, transportation,
-      residential and commercial coming from biomass (traditional)
-    unit: EJ/yr
-- Final Energy|Other Sector|Solids|Fossil:
-    definition: final energy consumption of fossil solids by other sectors
     unit: EJ/yr
 - Reservoir Capacity|Electricity|Storage:
     definition: reservoir size of electricity storage technologies (e.g. pumped hydro,
@@ -2035,24 +1835,6 @@
     definition: investment into water-related infrastructure (other than for thermal
       cooling and irrigation)
     unit: billion USD_2010/yr
-- Land Cover|Cropland|Energy Crops|Irrigated:
-    definition: irrigated land dedicated to energy crops (e.g., switchgrass, miscanthus,
-      fast-growing wood species)
-    unit: million ha
-- Land Cover|Cropland|Irrigated:
-    definition: irrigated arable land, i.e. land in non-forest bioenergy crop, food,
-      and feed/fodder crops, as well as other arable land (cultivated area)
-    unit: million ha
-- Land Cover|Forest|Afforestation and Reforestation:
-    definition: Area for afforestation and reforestation
-    unit: million ha
-- Land Cover|Forest|Forestry|Harvested Area:
-    definition: Forest area harvested
-    unit: million ha
-- Land Cover|Other Arable Land:
-    definition: other arable land that is unmanaged (e.g., grassland, savannah,
-      shrubland), excluding unmanaged forests that are arable
-    unit: million ha
 - Price|Carbon|Net|Industry:
     definition: Net price of carbon applicable at national level for industry sector
       (= sum of all overlapping regulations)
@@ -2619,13 +2401,6 @@
 - Freshwater|Environmental Flow:
     definition: water allocated to environmental flow in rivers and groundwater systems
     unit: km3/yr
-- Population|Drinking Water Access:
-    definition: Population with access to improved drinking  water sources (by income
-      level)
-    unit: million
-- Population|Sanitation Acces:
-    definition: Population with access to improved sanitation  (by income level)
-    unit: million
 - Water Desalination:
     definition: desalination water
     unit: km3/yr
@@ -2657,39 +2432,6 @@
 - Improvement|Efficiency|Irrigation:
     definition: improvements in irrigation water use efficiency per year
     unit: '%/yr'
-- Land Cover|Cropland|Double-cropped:
-    definition: area of land that is double-cropped (twice in a year)
-    unit: million ha
-- Land Cover|Cropland|Rainfed:
-    definition: area of land that is rain-fed
-    unit: million ha
-- Land Cover|Water Ecosystems|Forests:
-    definition: 'Land-use coverage of water-related ecosystem: forests'
-    unit: million ha
-- Land Cover|Water Ecosystems|Glaciers:
-    definition: 'Land-use coverage of water-related ecosystem: glaciers'
-    unit: million ha
-- Land Cover|Water Ecosystems|Lakes:
-    definition: 'Land-use coverage of water-related ecosystem: lakes'
-    unit: million ha
-- Land Cover|Water Ecosystems|Mountains:
-    definition: 'Land-use coverage of water-related ecosystem: mountains'
-    unit: million ha
-- Land Cover|Water Ecosystems|Wetlands:
-    definition: 'Land-use coverage of water-related ecosystem: wetlands'
-    unit: million ha
-- Land Cover|Water Ecosystems|Wetlands|Peatlands|Intact:
-    definition: 'Land-use coverage of water-related ecosystem: wetlands with organic
-      soils: intact peatland area'
-    unit: million ha
-- Land Cover|Water Ecosystems|Wetlands|Peatlands|Drained:
-    definition: 'Land-use coverage of water-related ecosystem: wetlands with organic
-      soils: drained or degraded peatland area'
-    unit: million ha
-- Land Cover|Water Ecosystems|Wetlands|Peatlands|Rewetted:
-    definition: 'Land-use coverage of water-related ecosystem: wetlands with organic
-      soils: rewetted or restored peatland area'
-    unit: million ha
 - Water Consumption|Extraction:
     definition: total water consumption for extraction
     unit: km3/yr
