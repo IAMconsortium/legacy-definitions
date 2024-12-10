@@ -121,28 +121,6 @@
       deep ocean, stored amounts should be reported as positive numbers through other
       techniques
     unit: Mt CO2/yr
-- Carbon Capture|Usage:
-    definition: total carbon dioxide captured and used
-    unit: Mt CO2/yr
-- Carbon Capture|Usage|Materials|Long-lived:
-    definition: total carbon dioxide captured and used in long-lived materials (e.g.
-      carbon fibers)
-    unit: Mt CO2/yr
-- Carbon Capture|Usage|Materials|Short-lived:
-    definition: total carbon dioxide captured and used in short-lived materials (e.g.
-      plastics)
-    unit: Mt CO2/yr
-- Carbon Capture|Usage|Liquids:
-    definition: total carbon dioxide captured and used in synthetic liquids (e.g.
-      as feedstock in industry or for synthetic fuels)
-    unit: Mt CO2/yr
-- Carbon Capture|Usage|Gases:
-    definition: total carbon dioxide captured and used in synthetic gases (e.g. as
-      feedstock in industry or for synthetic fuels)
-    unit: Mt CO2/yr
-- Carbon Capture|Usage|Other:
-    definition: total carbon dioxide captured and used in other short-lived products
-    unit: Mt CO2/yr
 - Forcing:
     definition: radiative forcing from all greenhouse gases and forcing agents, including
       contributions from albedo change, nitrate, and mineral dust
