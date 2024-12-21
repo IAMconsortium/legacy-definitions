@@ -17,6 +17,7 @@ def test_integration_common_definitions():
             "region": {"repository": "common-definitions"},
             "variable": {"repository": "common-definitions"},
         },
+        "illegal_characters": [],
     }
 
     with open(config_file, "w") as file:
